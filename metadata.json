@@ -1,0 +1,72 @@
+[
+    {
+        "word": "herald",
+        "pronunciation": "/ˈherəld/",
+        "translation": "使者, 预兆",
+        "part_of_speech": ["Noun", "Verb"],
+        "definition": {
+            "Noun": "A messenger bringing news, or a sign that something is about to happen.",
+            "Verb": "To announce or signal the arrival of something."
+        },
+        "examples": [
+            "The town crier acted as a herald, announcing the arrival of the king.",
+            "The blooming flowers are a herald of spring.",
+            "The new technology heralds a significant advancement in medicine.",
+            "The discovery of gold heralded a new era of prosperity for the region."
+        ],
+        "related_words": ["messenger", "announce", "signal"],
+        "date_added": "2024-07-30"
+    },
+    {
+        "word": "overhaul",
+        "pronunciation": "/ˈoʊvərˌhɔl/",
+        "translation": "大修, 彻底检修",
+        "part_of_speech": ["Noun", "Verb"],
+        "definition": {
+            "Noun": "A thorough examination and repair.",
+            "Verb": "To take apart in order to examine it and repair it if necessary."
+        },
+        "examples": [
+            "The car needs a complete overhaul.",
+            "The company decided to overhaul its operational procedures.",
+            "After years of neglect, the building was overhauled to meet current safety standards."
+        ],
+        "related_words": ["repair", "revamp", "rebuild"],
+        "date_added": "2024-07-30"
+    },
+    {
+        "word": "slew",
+        "pronunciation": "/sluː/",
+        "translation": "大量, 许多",
+        "part_of_speech": ["Noun", "Verb"],
+        "definition": {
+            "Noun": "A large number or quantity.",
+            "Verb": "To turn or slide violently or uncontrollably."
+        },
+        "examples": [
+            "She has a slew of books on her reading list.",
+            "The car slewed to the side of the road.",
+            "He slewed the boat around to face the wind."
+        ],
+        "related_words": ["multitude", "abundance", "glide"],
+        "date_added": "2024-07-30"
+    },
+    {
+        "word": "skew",
+        "pronunciation": "/skjuː/",
+        "translation": "偏斜, 扭曲",
+        "part_of_speech": ["Verb", "Adjective", "Noun"],
+        "definition": {
+            "Verb": "To change direction or position.",
+            "Adjective": "Not straight or level.",
+            "Noun": "An oblique angle; a slant."
+        },
+        "examples": [
+            "The data may be skewed by the small sample size.",
+            "The picture on the wall was slightly skew.",
+            "There is a noticeable skew in the distribution of the results."
+        ],
+        "related_words": ["distort", "slant", "tilt"],
+        "date_added": "2024-07-30"
+    }
+]
