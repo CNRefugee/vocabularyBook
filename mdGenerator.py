@@ -59,7 +59,7 @@ def generate_index_page(vocabulary_notes, directory="index", num_words=10):
     os.makedirs(directory, exist_ok=True)
     index_content = "# Vocabulary Index\n\n"
     # selected_notes = random.sample(vocabulary_notes, min(num_words, len(vocabulary_notes)))
-    index_content += "\n".join([f"- [{note.word}]({note.word}.md) - Added on {note.date_added}" for note in vocabulary_notes])
+    index_content += "\n".join([f"- [{note.word}](../vocabulary/{note.word}.md) - Added on {note.date_added}" for note in vocabulary_notes])
     file_path = os.path.join(directory, "index.md")
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(index_content)

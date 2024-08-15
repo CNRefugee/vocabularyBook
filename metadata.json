@@ -68,5 +68,146 @@
         ],
         "related_words": ["distort", "slant", "tilt"],
         "date_added": "2024-07-30"
-    }
+    },
+    {
+        "word": "buzzy",
+        "pronunciation": "/ˈbʌzi/",
+        "translation": "嗡嗡的, 热闹的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Exciting, lively, or trendy."
+        },
+        "examples": [
+            "The new restaurant is very buzzy and popular.",
+            "The tech startup scene is quite buzzy right now."
+        ],
+        "related_words": ["vibrant", "lively", "trendy"],
+        "date_added": "2024-07-30"
+    },
+    {
+        "word": "dire",
+               "pronunciation": "/daɪr/",
+        "translation": "可怕的, 严重的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Extremely serious or urgent."
+        },
+        "examples": [
+            "The country is in dire need of food aid.",
+            "The situation became dire when the storm hit."
+        ],
+        "related_words": ["urgent", "critical", "grave"],
+        "date_added": "2024-07-30"
+    },
+    {
+        "word": "headwind",
+        "pronunciation": "/ˈhɛdwɪnd/",
+        "translation": "逆风",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "A wind blowing directly against the course of movement.",
+            "Noun": "A situation or condition that makes progress difficult."
+        },
+        "examples": [
+            "The cyclists struggled against a strong headwind.",
+            "The company faced significant headwinds in the market."
+        ],
+        "related_words": ["opposition", "resistance", "obstacle"],
+        "date_added": "2024-07-30"
+    },
+    {
+        "word": "grim",
+        "pronunciation": "/ɡrɪm/",
+        "translation": "严酷的, 令人沮丧的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Unpleasant or shocking to see or think about; serious or gloomy."
+        },
+        "examples": [
+            "The news of the disaster was grim.",
+            "He looked at her with a grim expression."
+        ],
+        "related_words": ["harsh", "bleak", "stern"],
+        "date_added": "2024-08-07"
+    },
+    {
+        "word": "resign",
+        "pronunciation": "/rɪˈzaɪn/",
+        "translation": "辞职, 放弃",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "To give up one's office or position."
+        },
+        "examples": [
+            "She decided to resign from her position as CEO.",
+            "After the scandal, he had no choice but to resign."
+        ],
+        "related_words": ["quit", "leave", "abdicate"],
+        "date_added": "2024-08-14"
+    },
+    {
+    "word": "futile",
+    "pronunciation": "/ˈfjuːtaɪl/",
+    "translation": "徒劳的, 无效的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Incapable of producing any useful result; pointless."
+    },
+    "examples": [
+        "Their efforts to save the company were futile.",
+        "It was futile to continue the argument."
+    ],
+    "related_words": ["useless", "pointless", "vain"],
+    "date_added": "2024-08-14"
+},
+    {
+    "word": "innate",
+    "pronunciation": "/ɪˈneɪt/",
+    "translation": "天生的, 固有的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Inborn; natural; existing in one from birth."
+    },
+    "examples": [
+        "He has an innate talent for music.",
+        "The ability to speak is an innate human characteristic."
+    ],
+    "related_words": ["inborn", "natural", "inherent"],
+    "date_added": "2024-08-07"
+},
+    {
+    "word": "intent",
+    "pronunciation": "/ɪnˈtɛnt/",
+    "translation": "意图, 目的",
+    "part_of_speech": ["Noun", "Adjective"],
+    "definition": {
+        "Noun": "A plan or purpose; something that one intends to do.",
+        "Adjective": "Determined or resolved to do something."
+    },
+    "examples": [
+        "His intent was to improve the company's performance.",
+        "She looked at him with an intent expression."
+    ],
+    "related_words": ["purpose", "objective", "resolve"],
+    "date_added": "2024-08-14"
+},
+    {
+    "word": "infatuate",
+    "pronunciation": "/ɪnˈfætʃueɪt/",
+    "translation": "使迷恋, 使冲昏头脑",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To inspire or possess with a foolish or unreasonable passion or love, often to the point of being irrational."
+    },
+    "examples": [
+        "He was completely infatuated with her beauty.",
+        "The young artist became infatuated with fame."
+    ],
+    "related_words": ["obsess", "bewitch", "captivate"],
+    "date_added": "2024-08-14"
+}
+
+
+
+
 ]
