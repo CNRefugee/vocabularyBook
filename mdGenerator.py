@@ -55,11 +55,23 @@ def generate_vocabulary_notes(metadata_file="metadata.json"):
         note.save_to_file()
     generate_index_page(vocabulary_notes)
 
+
 def generate_index_page(vocabulary_notes, directory="index", num_words=10):
     os.makedirs(directory, exist_ok=True)
+
+    # 按日期排序词汇
+    vocabulary_notes.sort(key=lambda x: x.date_added)
+
     index_content = "# Vocabulary Index\n\n"
-    # selected_notes = random.sample(vocabulary_notes, min(num_words, len(vocabulary_notes)))
-    index_content += "\n".join([f"- [{note.word}](../vocabulary/{note.word}.md) - Added on {note.date_added}" for note in vocabulary_notes])
+    current_date = ""
+
+    for note in vocabulary_notes:
+        if note.date_added != current_date:
+            current_date = note.date_added
+            index_content += f"### {current_date}\n\n"
+
+        index_content += f"- [{note.word}](../vocabulary/{note.word}.md)\n"
+
     file_path = os.path.join(directory, "index.md")
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(index_content)

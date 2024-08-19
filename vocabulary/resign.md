@@ -15,4 +15,4 @@
 - [leave](leave.md)
 - [abdicate](abdicate.md)
 ### Date Added
-2024-08-07
+2024-08-14

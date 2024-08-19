@@ -1,13 +1,43 @@
 # Vocabulary Index
 
-- [herald](../vocabulary/herald.md) - Added on 2024-07-30
-- [overhaul](../vocabulary/overhaul.md) - Added on 2024-07-30
-- [slew](../vocabulary/slew.md) - Added on 2024-07-30
-- [skew](../vocabulary/skew.md) - Added on 2024-07-30
-- [buzzy](../vocabulary/buzzy.md) - Added on 2024-07-30
-- [dire](../vocabulary/dire.md) - Added on 2024-07-30
-- [headwind](../vocabulary/headwind.md) - Added on 2024-07-30
-- [grim](../vocabulary/grim.md) - Added on 2024-08-07
-- [resign](../vocabulary/resign.md) - Added on 2024-08-07
-- [futile](../vocabulary/futile.md) - Added on 2024-08-07
-- [innate](../vocabulary/innate.md) - Added on 2024-08-07
+### 2024-07-30
+
+- [herald](../vocabulary/herald.md)
+- [overhaul](../vocabulary/overhaul.md)
+- [slew](../vocabulary/slew.md)
+- [skew](../vocabulary/skew.md)
+- [buzzy](../vocabulary/buzzy.md)
+- [dire](../vocabulary/dire.md)
+- [headwind](../vocabulary/headwind.md)
+### 2024-08-07
+
+- [grim](../vocabulary/grim.md)
+- [innate](../vocabulary/innate.md)
+### 2024-08-14
+
+- [resign](../vocabulary/resign.md)
+- [futile](../vocabulary/futile.md)
+- [intent](../vocabulary/intent.md)
+- [infatuate](../vocabulary/infatuate.md)
+### 2024/8/19
+
+- [shatter](../vocabulary/shatter.md)
+- [jeopardy](../vocabulary/jeopardy.md)
+- [precarious](../vocabulary/precarious.md)
+- [shred](../vocabulary/shred.md)
+- [iterative](../vocabulary/iterative.md)
+- [fictitious](../vocabulary/fictitious.md)
+- [silhouette](../vocabulary/silhouette.md)
+- [mitigate](../vocabulary/mitigate.md)
+- [frenzy](../vocabulary/frenzy.md)
+- [consolidate](../vocabulary/consolidate.md)
+- [intersection](../vocabulary/intersection.md)
+- [decompose](../vocabulary/decompose.md)
+- [abdomen](../vocabulary/abdomen.md)
+- [jagged](../vocabulary/jagged.md)
+- [mortuary](../vocabulary/mortuary.md)
+- [ferocious](../vocabulary/ferocious.md)
+- [disembowel](../vocabulary/disembowel.md)
+- [awe](../vocabulary/awe.md)
+- [plateau](../vocabulary/plateau.md)
+- [idyllic](../vocabulary/idyllic.md)

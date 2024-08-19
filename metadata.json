@@ -205,9 +205,307 @@
     ],
     "related_words": ["obsess", "bewitch", "captivate"],
     "date_added": "2024-08-14"
-}
-
-
-
-
+},
+    {
+        "word": "shatter",
+        "pronunciation": "/ˈʃætər/",
+        "translation": "粉碎, 破碎",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "To break suddenly into many small pieces."
+        },
+        "examples": [
+            "The glass vase fell and shattered into a thousand pieces.",
+            "The news shattered her hopes."
+        ],
+        "related_words": ["break", "smash", "crack"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "jeopardy",
+        "pronunciation": "/ˈdʒɛpərdi/",
+        "translation": "危险, 风险",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "Danger of loss, harm, or failure."
+        },
+        "examples": [
+            "The company's future is in jeopardy.",
+            "He was in jeopardy of losing his job."
+        ],
+        "related_words": ["danger", "risk", "peril"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "precarious",
+        "pronunciation": "/prɪˈkɛəriəs/",
+        "translation": "不稳定的, 危险的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Not securely held or in position; dangerously likely to fall or collapse."
+        },
+        "examples": [
+            "The ladder was in a precarious position.",
+            "She made a precarious living as a freelance writer."
+        ],
+        "related_words": ["uncertain", "insecure", "risky"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "shred",
+        "pronunciation": "/ʃrɛd/",
+        "translation": "碎片, 少量",
+        "part_of_speech": ["Noun", "Verb"],
+        "definition": {
+            "Noun": "A small strip or amount of something.",
+            "Verb": "To tear or cut into small pieces."
+        },
+        "examples": [
+            "He tore the letter into shreds.",
+            "I don't have a shred of doubt about it."
+        ],
+        "related_words": ["fragment", "piece", "strip"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "iterative",
+        "pronunciation": "/ˈɪtərətɪv/",
+        "translation": "重复的, 反复的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Involving repetition or iteration."
+        },
+        "examples": [
+            "The process is iterative and will be refined over time.",
+            "An iterative approach was used to improve the design."
+        ],
+        "related_words": ["repetitive", "cyclical", "sequential"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "fictitious",
+        "pronunciation": "/fɪkˈtɪʃəs/",
+        "translation": "虚构的, 假的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Not real or true; imaginary or fabricated."
+        },
+        "examples": [
+            "The characters in the book are entirely fictitious.",
+            "She gave a fictitious name to the police."
+        ],
+        "related_words": ["imaginary", "fabricated", "invented"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "silhouette",
+        "pronunciation": "/ˌsɪlʊˈɛt/",
+        "translation": "轮廓, 剪影",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "The dark shape and outline of someone or something visible against a lighter background."
+        },
+        "examples": [
+            "The silhouette of the mountains was visible against the evening sky.",
+            "She could see his silhouette through the curtain."
+        ],
+        "related_words": ["outline", "profile", "contour"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "mitigate",
+        "pronunciation": "/ˈmɪtɪɡeɪt/",
+        "translation": "减轻, 缓和",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "To make less severe, serious, or painful."
+        },
+        "examples": [
+            "Steps were taken to mitigate the effects of the crisis.",
+            "They tried to mitigate the risks associated with the project."
+        ],
+        "related_words": ["alleviate", "reduce", "ease"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "frenzy",
+        "pronunciation": "/ˈfrɛnzi/",
+        "translation": "狂暴, 狂乱",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "A state or period of uncontrolled excitement or wild behavior."
+        },
+        "examples": [
+            "The crowd was in a frenzy over the band's performance.",
+            "She worked herself into a frenzy trying to finish the project."
+        ],
+        "related_words": ["hysteria", "mania", "agitation"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "consolidate",
+        "pronunciation": "/kənˈsɒlɪdeɪt/",
+        "translation": "巩固, 合并",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "To make something physically stronger or more solid; to combine into a single more effective or coherent whole."
+        },
+        "examples": [
+            "The company consolidated its position in the market.",
+            "They decided to consolidate all their resources."
+        ],
+        "related_words": ["strengthen", "unify", "merge"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "intersection",
+        "pronunciation": "/ˌɪntəˈsɛkʃən/",
+        "translation": "交叉点, 交集",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "A point or line common to lines or surfaces that intersect."
+        },
+        "examples": [
+            "The accident happened at a busy intersection.",
+            "There's a traffic light at the intersection of two main roads."
+        ],
+        "related_words": ["junction", "crossroad", "convergence"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "decompose",
+        "pronunciation": "/ˌdiːkəmˈpəʊz/",
+        "translation": "分解, 腐烂",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "To make or become rotten; to break down into simpler components."
+        },
+        "examples": [
+            "The leaves decomposed into compost over time.",
+            "Organic waste will decompose quickly in a compost bin."
+        ],
+        "related_words": ["decay", "break down", "deteriorate"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "abdomen",
+        "pronunciation": "/ˈæbdəmən/",
+        "translation": "腹部, 腹腔",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "The part of the body containing the digestive organs; the belly."
+        },
+        "examples": [
+            "He felt a sharp pain in his abdomen.",
+            "The abdomen houses many vital organs."
+        ],
+        "related_words": ["stomach", "belly", "midsection"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "jagged",
+        "pronunciation": "/ˈdʒæɡɪd/",
+        "translation": "锯齿状的, 不规则的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Having rough, sharp points protruding."
+        },
+        "examples": [
+            "The jagged rocks made it difficult to climb.",
+            "She cut her hand on the jagged edge of the metal."
+        ],
+        "related_words": ["serrated", "ragged", "rough"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "mortuary",
+        "pronunciation": "/ˈmɔːtjʊəri/",
+        "translation": "停尸间, 殡仪馆",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "A place where bodies are kept, especially to be identified or prepared for burial."
+        },
+        "examples": [
+            "The hospital's mortuary is located in the basement.",
+            "The funeral home has a small mortuary."
+        ],
+        "related_words": ["morgue", "funeral home", "chapel"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "ferocious",
+        "pronunciation": "/fəˈrəʊʃəs/",
+        "translation": "凶猛的, 残忍的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Savagely fierce, cruel, or violent."
+        },
+        "examples": [
+            "The ferocious lion attacked its prey.",
+            "The storm was ferocious, causing widespread damage."
+        ],
+        "related_words": ["fierce", "savage", "violent"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "disembowel",
+        "pronunciation": "/ˌdɪsɪmˈbaʊəl/",
+        "translation": "取出内脏, 剖腹",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "To cut open and remove the internal organs of."
+        },
+        "examples": [
+            "The hunter disemboweled the deer after the kill.",
+            "In ancient times, disembowelment was a form of execution."
+        ],
+        "related_words": ["eviscerate", "gut", "butcher"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "awe",
+        "pronunciation": "/ɔː/",
+        "translation": "敬畏, 惊叹",
+        "part_of_speech": ["Noun", "Verb"],
+        "definition": {
+            "Noun": "A feeling of reverential respect mixed with fear or wonder.",
+            "Verb": "To inspire with awe."
+        },
+        "examples": [
+            "The sight of the Grand Canyon filled me with awe.",
+            "She was awed by the sheer scale of the project."
+        ],
+        "related_words": ["wonder", "admiration", "reverence"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "plateau",
+        "pronunciation": "/ˈplætəʊ/",
+        "translation": "高原, 稳定期",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "An area of relatively level high ground; a state of little or no change following a period of activity or progress."
+        },
+        "examples": [
+            "The hikers reached the plateau by midday.",
+            "Her career has reached a plateau."
+        ],
+        "related_words": ["mesa", "highland", "tableland"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "idyllic",
+        "pronunciation": "/ɪˈdɪlɪk/",
+        "translation": "田园诗般的, 悠闲的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Extremely happy, peaceful, or picturesque."
+        },
+        "examples": [
+            "They enjoyed an idyllic vacation on a remote island.",
+            "The village was an idyllic place to grow up."
+        ],
+        "related_words": ["peaceful", "picturesque", "charming"],
+        "date_added": "2024/8/19"
+    }
 ]
