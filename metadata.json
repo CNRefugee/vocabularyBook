@@ -507,5 +507,131 @@
         ],
         "related_words": ["peaceful", "picturesque", "charming"],
         "date_added": "2024/8/19"
-    }
+    },
+    {
+        "word": "overarching",
+        "pronunciation": "/ˌəʊvərˈɑːtʃɪŋ/",
+        "translation": "首要的, 支配一切的, 包罗万象的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "Comprehensive or all-embracing; having an effect on or influence over all aspects of something."
+        },
+        "examples": [
+            "The overarching theme of the novel is the struggle for power.",
+            "Their overarching goal is to improve the quality of education."
+        ],
+        "related_words": ["comprehensive", "all-encompassing", "dominant"],
+        "date_added": "2024/8/19"
+    },
+    {
+        "word": "mafia",
+        "pronunciation": "/ˈmɑːfiə/",
+        "translation": "黑手党, 秘密犯罪组织",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "A secret criminal organization operating mainly in Italy and the U.S., involved in illegal activities such as drug trafficking, extortion, and racketeering."
+        },
+        "examples": [
+            "The police have been cracking down on the mafia's activities in the city.",
+            "He was suspected of having ties to the mafia."
+        ],
+        "related_words": ["syndicate", "mob", "gang"],
+        "date_added": "2024/8/19"
+    },
+    {
+    "word": "adorn",
+    "pronunciation": "/əˈdɔːrn/",
+    "translation": "装饰, 点缀",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To make more beautiful or attractive by adding something decorative."
+    },
+    "examples": [
+        "They adorned the hall with flowers for the wedding.",
+        "Her dress was adorned with delicate lace and beads."
+    ],
+    "related_words": ["decorate", "embellish", "beautify"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "clutch",
+    "pronunciation": "/klʌtʃ/",
+    "translation": "抓住, 离合器",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "To grasp or hold tightly.",
+        "Noun": "A mechanism in a vehicle that allows the engine to connect and disconnect from the transmission; also, a tight grip or hold."
+    },
+    "examples": [
+        "She clutched her bag as she walked through the crowded street.",
+        "The car's clutch needs to be replaced because it's slipping."
+    ],
+    "related_words": ["grip", "seize", "hold"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "clutch",
+    "pronunciation": "/klʌtʃ/",
+    "translation": "抓住, 离合器",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "To grasp or hold tightly.",
+        "Noun": "A mechanism in a vehicle that allows the engine to connect and disconnect from the transmission; also, a tight grip or hold."
+    },
+    "examples": [
+        "She clutched her bag as she walked through the crowded street.",
+        "The car's clutch needs to be replaced because it's slipping."
+    ],
+    "related_words": ["grip", "seize", "hold"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "foreshadow",
+    "pronunciation": "/fɔːrˈʃædoʊ/",
+    "translation": "预示，预兆",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To indicate or suggest something that will happen in the future."
+    },
+    "examples": [
+        "The dark clouds foreshadowed the coming storm.",
+        "Her early interest in biology foreshadowed her future career as a scientist."
+    ],
+    "related_words": ["predict", "portend", "presage"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "resurrect",
+    "pronunciation": "/ˌrezəˈrekt/",
+    "translation": "使复活，使恢复",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To bring back to life; to revive or restore something that had been forgotten, abandoned, or lost."
+    },
+    "examples": [
+        "The scientists are trying to resurrect extinct species through genetic engineering.",
+        "The company plans to resurrect the old brand to appeal to nostalgic consumers."
+    ],
+    "related_words": ["revive", "restore", "reawaken"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "startle",
+    "pronunciation": "/ˈstɑːrtl/",
+    "translation": "使吃惊，使惊跳",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To surprise or frighten someone suddenly, causing them to make a quick movement."
+    },
+    "examples": [
+        "The sudden loud noise startled the children.",
+        "She was startled by his unexpected appearance at the door."
+    ],
+    "related_words": ["surprise", "shock", "alarm"],
+    "date_added": "2024/8/26"
+}
+
+
+
+
 ]

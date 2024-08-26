@@ -41,3 +41,13 @@
 - [awe](../vocabulary/awe.md)
 - [plateau](../vocabulary/plateau.md)
 - [idyllic](../vocabulary/idyllic.md)
+- [overarching](../vocabulary/overarching.md)
+- [mafia](../vocabulary/mafia.md)
+### 2024/8/26
+
+- [adorn](../vocabulary/adorn.md)
+- [clutch](../vocabulary/clutch.md)
+- [clutch](../vocabulary/clutch.md)
+- [foreshadow](../vocabulary/foreshadow.md)
+- [resurrect](../vocabulary/resurrect.md)
+- [startle](../vocabulary/startle.md)
