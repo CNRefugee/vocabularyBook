@@ -3,7 +3,7 @@ import json
 import random
 
 class VocabularyNote:
-    def __init__(self, word, pronunciation, translation, part_of_speech, definition, examples, related_words, date_added):
+    def __init__(self, word, pronunciation, translation, part_of_speech, definition, examples, related_words, date_added, further_explanation=None):
         self.word = word
         self.pronunciation = pronunciation
         self.translation = translation
@@ -12,6 +12,7 @@ class VocabularyNote:
         self.examples = examples
         self.related_words = related_words
         self.date_added = date_added
+        self.further_explanation = further_explanation
 
     def to_markdown(self):
         related_links = "\n".join([f"- [{word}]({word}.md)" for word in self.related_words])
@@ -36,6 +37,9 @@ class VocabularyNote:
 ### Date Added
 {self.date_added}
 """
+        if self.further_explanation:
+            content += f"\n### Further Explanation\n{self.further_explanation}\n"
+
         return content.strip()
 
     def save_to_file(self, directory="vocabulary"):
@@ -55,11 +59,10 @@ def generate_vocabulary_notes(metadata_file="metadata.json"):
         note.save_to_file()
     generate_index_page(vocabulary_notes)
 
-
 def generate_index_page(vocabulary_notes, directory="index", num_words=10):
     os.makedirs(directory, exist_ok=True)
 
-    # 按日期排序词汇
+    # Sort vocabulary by date
     vocabulary_notes.sort(key=lambda x: x.date_added)
 
     index_content = "# Vocabulary Index\n\n"

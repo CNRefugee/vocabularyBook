@@ -570,22 +570,6 @@
     "date_added": "2024/8/26"
 },
     {
-    "word": "clutch",
-    "pronunciation": "/klʌtʃ/",
-    "translation": "抓住, 离合器",
-    "part_of_speech": ["Verb", "Noun"],
-    "definition": {
-        "Verb": "To grasp or hold tightly.",
-        "Noun": "A mechanism in a vehicle that allows the engine to connect and disconnect from the transmission; also, a tight grip or hold."
-    },
-    "examples": [
-        "She clutched her bag as she walked through the crowded street.",
-        "The car's clutch needs to be replaced because it's slipping."
-    ],
-    "related_words": ["grip", "seize", "hold"],
-    "date_added": "2024/8/26"
-},
-    {
     "word": "foreshadow",
     "pronunciation": "/fɔːrˈʃædoʊ/",
     "translation": "预示，预兆",
@@ -634,4 +618,496 @@
 
 
 
+    ,
+    {
+    "word": "hustle",
+    "pronunciation": "/ˈhʌsəl/",
+    "translation": "忙碌, 奋力争取, 诈骗",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": [
+            "To move or work energetically and rapidly.",
+            "To push or force someone to move hurriedly or unceremoniously.",
+            "To obtain by forceful action or persuasion, often in a deceitful or fraudulent way."
+        ],
+        "Noun": [
+            "Busy activity; energetic action.",
+            "A deceitful or fraudulent scheme, especially in business or social contexts."
+        ]
+    },
+    "examples": [
+        "She hustled to get the job done before the deadline.",
+        "The street vendor hustled tourists into buying fake souvenirs.",
+        "The hustle and bustle of the city can be overwhelming.",
+        "He was caught up in a hustle that cost him thousands of dollars."
+    ],
+    "related_words": ["bustle", "push", "scam"],
+    "date_added": "2024/8/25"
+}
+,
+    {
+    "word": "articulate",
+    "pronunciation": "/ɑːrˈtɪkjʊlət/",
+    "translation": "表达清晰的, 清楚表达",
+    "part_of_speech": ["Adjective", "Verb"],
+    "definition": {
+        "Adjective": "Able to express ideas and feelings clearly and effectively in speech or writing.",
+        "Verb": "To express (an idea or feeling) fluently and coherently."
+    },
+    "examples": [
+        "She is a highly articulate speaker.",
+        "He was able to articulate his thoughts clearly during the meeting."
+    ],
+    "related_words": ["eloquent", "express", "communicate"],
+    "date_added": "2024/8/25"
+}
+,
+    {
+    "word": "hiccup",
+    "pronunciation": "/ˈhɪkʌp/",
+    "translation": "打嗝, 小问题",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": [
+            "A sudden, involuntary contraction of the diaphragm and muscles of the chest, causing a characteristic sound.",
+            "A temporary or minor problem or setback."
+        ],
+        "Verb": "To make a hiccuping sound or action."
+    },
+    "examples": [
+        "She had a bad case of the hiccups after drinking soda.",
+        "There was a small hiccup in the project's progress, but it's back on track now."
+    ],
+    "related_words": ["spasm", "glitch", "setback"],
+    "date_added": "2024/8/25"
+},
+    {
+    "word": "chauffeur",
+    "pronunciation": "/ʃoʊˈfɜːr/",
+    "translation": "司机, 专职司机",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "A person employed to drive a private or hired car.",
+        "Verb": "To drive (someone) in a vehicle, typically as a chauffeur."
+    },
+    "examples": [
+        "The company hired a chauffeur to drive their executives to meetings.",
+        "She was chauffeured to the event in a luxury car."
+    ],
+    "related_words": ["driver", "motorist", "cabby"],
+    "date_added": "2024/8/25"
+}
+,
+    {
+    "word": "splurge",
+    "pronunciation": "/splɜːrdʒ/",
+    "translation": "挥霍, 挥金如土",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "To spend money freely or extravagantly.",
+        "Noun": "An act of spending money freely or extravagantly."
+    },
+    "examples": [
+        "She decided to splurge on a new designer handbag.",
+        "Their shopping trip turned into a splurge of spending on luxury items."
+    ],
+    "related_words": ["spend", "lavish", "indulge"],
+    "date_added": "2024/8/25"
+}
+,
+    {
+    "word": "plunge",
+    "pronunciation": "/plʌndʒ/",
+    "translation": "骤降, 跳入, 投入",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": [
+            "To jump or dive quickly and energetically.",
+            "To fall suddenly and uncontrollably.",
+            "To push or thrust quickly."
+        ],
+        "Noun": [
+            "A sudden dive or fall.",
+            "A sudden decrease in value or amount."
+        ]
+    },
+    "examples": [
+        "He took a deep breath and plunged into the water.",
+        "The stock market plunged after the news of the financial crisis.",
+        "The road plunges down the hillside."
+    ],
+    "related_words": ["dive", "fall", "drop"],
+    "date_added": "2024/8/25"
+},
+    {
+    "word": "taboo",
+    "pronunciation": "/təˈbuː/",
+    "translation": "禁忌, 忌讳",
+    "part_of_speech": ["Noun", "Adjective"],
+    "definition": {
+        "Noun": "A social or cultural prohibition or restriction on a particular practice or behavior.",
+        "Adjective": "Prohibited or restricted by social custom."
+    },
+    "examples": [
+        "Discussing religion can be a taboo subject in some cultures.",
+        "It is taboo to talk about money in certain social settings."
+    ],
+    "related_words": ["prohibition", "ban", "forbidden"],
+    "date_added": "2024/8/25"
+},
+    {
+    "word": "knock it off",
+    "pronunciation": "/nɒk ɪt ɒf/",
+    "translation": "停止, 住手",
+    "part_of_speech": ["Phrase"],
+    "definition": {
+        "Phrase": "An informal command telling someone to stop doing something, typically something annoying or inappropriate."
+    },
+    "examples": [
+        "The teacher told the students to knock it off when they were talking during class.",
+        "Hey, knock it off! That's really annoying."
+    ],
+    "related_words": ["cut it out", "stop", "quit it"],
+    "date_added": "2024/8/25"
+},
+    {
+    "word": "waive",
+    "pronunciation": "/weɪv/",
+    "translation": "放弃, 免除",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To refrain from insisting on or using a right or claim; to voluntarily give up something, such as a right or a requirement."
+    },
+    "examples": [
+        "The company decided to waive the late fee for the customer.",
+        "He waived his right to a lawyer and chose to represent himself in court."
+    ],
+    "related_words": ["relinquish", "forego", "abandon"],
+    "date_added": "2024/8/25"
+},
+    {
+    "word": "limber",
+    "pronunciation": "/ˈlɪmbər/",
+    "translation": "柔软的, 灵活的",
+    "part_of_speech": ["Adjective", "Verb"],
+    "definition": {
+        "Adjective": "Flexible and supple; capable of being bent or moved easily.",
+        "Verb": "To make something or someone more flexible or agile, typically through stretching exercises."
+    },
+    "examples": [
+        "Dancers must be limber to perform their routines with ease.",
+        "She did yoga every morning to stay limber.",
+        "He limbered up before the race by doing some stretches."
+    ],
+    "related_words": ["supple", "flexible", "agile"],
+    "date_added": "2024/8/25"
+},
+    {
+    "word": "compel",
+    "pronunciation": "/kəmˈpel/",
+    "translation": "强迫，迫使",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To force or oblige (someone) to do something; to bring about by force."
+    },
+    "examples": [
+        "The court order compelled him to reveal the source of his information.",
+        "Her curiosity compelled her to investigate further."
+    ],
+    "related_words": ["force", "oblige", "coerce"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "rudder",
+    "pronunciation": "/ˈrʌdər/",
+    "translation": "舵，方向舵",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "A flat piece hinged vertically near the stern of a boat or ship for steering."
+    },
+    "examples": [
+        "The sailor adjusted the rudder to change the boat's direction.",
+        "The ship lost control when its rudder was damaged in the storm."
+    ],
+    "related_words": ["helm", "tiller", "steering"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "sway",
+    "pronunciation": "/sweɪ/",
+    "translation": "摇摆，影响",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "1. To move or cause to move slowly back and forth or from side to side. 2. To influence or control, especially by winning favor.",
+        "Noun": "The action or an instance of swaying; controlling influence."
+    },
+    "examples": [
+        "The trees swayed in the strong wind.",
+        "His emotional speech swayed many voters to his side.",
+        "The politician held considerable sway over public opinion."
+    ],
+    "related_words": ["influence", "oscillate", "persuade"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "immediate gratification",
+    "pronunciation": "/ɪˈmiːdiət ˌɡrætɪfɪˈkeɪʃən/",
+    "translation": "即时满足",
+    "part_of_speech": ["Noun phrase"],
+    "definition": {
+        "Noun phrase": "The desire to experience pleasure or fulfillment without delay or deferment; the need to receive something or to feel a positive emotion right away."
+    },
+    "examples": [
+        "Social media often caters to our desire for immediate gratification.",
+        "Learning to delay immediate gratification is an important part of personal growth."
+    ],
+    "related_words": ["instant satisfaction", "self-control", "delayed gratification"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "transient",
+    "pronunciation": "/ˈtrænziənt/",
+    "translation": "短暂的，暂时的",
+    "part_of_speech": ["Adjective", "Noun"],
+    "definition": {
+        "Adjective": "Lasting only for a short time; impermanent.",
+        "Noun": "A person who stays or works in a place for a short time only."
+    },
+    "examples": [
+        "The pain was transient and soon faded away.",
+        "Many transients seek temporary shelter in the city during winter months."
+    ],
+    "related_words": ["temporary", "fleeting", "ephemeral"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "encapsulate",
+    "pronunciation": "/ɪnˈkæpsjuleɪt/",
+    "translation": "封装，概括",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To enclose (something) in or as if in a capsule. 2. To express the essential features of (something) succinctly."
+    },
+    "examples": [
+        "The new technology encapsulates the drug in a polymer coating for slow release.",
+        "Her speech perfectly encapsulated the mood of the nation."
+    ],
+    "related_words": ["summarize", "epitomize", "enclose"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "proactive",
+    "pronunciation": "/prəʊˈæktɪv/",
+    "translation": "积极主动的，前瞻性的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Acting in anticipation of future problems, needs, or changes."
+    },
+    "examples": [
+        "She is proactive in addressing potential issues before they become problems.",
+        "A proactive approach to health involves regular exercise and a balanced diet."
+    ],
+    "related_words": ["preemptive", "preventive", "anticipatory"],
+    "date_added": "2024/08/26"
+},
+    {
+    "word": "indifferent",
+    "pronunciation": "/ɪnˈdɪfrənt/",
+    "translation": "冷漠的, 不关心的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Having no particular interest or sympathy; unconcerned."
+    },
+    "examples": [
+        "She was indifferent to the outcome of the game.",
+        "The manager seemed indifferent to the complaints of his employees."
+    ],
+    "related_words": ["unconcerned", "apathetic", "disinterested"],
+    "date_added": "2024/08/26"
+},
+    {
+    "word": "dabble",
+    "pronunciation": "/ˈdæbəl/",
+    "translation": "浅尝, 涉猎",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To take part in an activity in a casual or superficial way."
+    },
+    "examples": [
+        "She likes to dabble in painting, though she's not a professional artist.",
+        "He dabbled in photography before finding his true passion in writing."
+    ],
+    "related_words": ["tinker", "experiment", "try out"],
+    "date_added": "2024/08/26"
+},
+    {
+    "word": "disheartening",
+    "pronunciation": "/dɪsˈhɑːrtənɪŋ/",
+    "translation": "令人沮丧的，使人灰心的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Causing a loss of hope or enthusiasm; discouraging."
+    },
+    "examples": [
+        "It was disheartening to see how much damage the storm had caused.",
+        "The constant rejections were disheartening, but she didn't give up on her dream."
+    ],
+    "related_words": ["discouraging", "demoralizing", "dispiriting"],
+    "date_added": "2024/8/27"
+},
+    {
+    "word": "preposterous",
+    "pronunciation": "/prɪˈpɒstərəs/",
+    "translation": "荒谬的, 可笑的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Contrary to reason or common sense; utterly absurd or ridiculous."
+    },
+    "examples": [
+        "The idea that aliens built the pyramids is preposterous.",
+        "It's preposterous to suggest that we should give up all modern conveniences."
+    ],
+    "related_words": ["absurd", "ridiculous", "outrageous"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "rip-off",
+    "pronunciation": "/ˈrɪp ˌɔːf/",
+    "translation": "敲诈, 欺骗, 骗人的东西",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "Something that is not worth what you pay for it; a scam or unfair overcharge."
+    },
+    "examples": [
+        "The price they charged for the service was a total rip-off.",
+        "That concert was a rip-off; the band only played for 30 minutes."
+    ],
+    "related_words": ["scam", "fraud", "swindle"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "merchandise",
+    "pronunciation": "/ˈmɜːrtʃəndaɪz/",
+    "translation": "商品, 货物",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "Goods that are bought and sold, especially in retail.",
+        "Verb": "To promote the sale of goods, especially through advertising or other marketing strategies."
+    },
+    "examples": [
+        "The store offers a wide variety of merchandise, from clothing to electronics.",
+        "They plan to merchandise the new product line heavily this holiday season."
+    ],
+    "related_words": ["goods", "products", "commodities"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "odds and ends",
+    "pronunciation": "/ɒdz ənd ɛndz/",
+    "translation": "零碎物品, 杂物",
+    "part_of_speech": ["Noun (plural)"],
+    "definition": {
+        "Noun": "Small items or miscellaneous objects that are usually not of much value or importance."
+    },
+    "examples": [
+        "She spent the weekend sorting through odds and ends in the attic.",
+        "The drawer was filled with odds and ends like paper clips and old batteries."
+    ],
+    "related_words": ["bits and pieces", "miscellanea", "knick-knacks"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "upfront",
+    "pronunciation": "/ʌpˈfrʌnt/",
+    "translation": "预付的, 坦率的",
+    "part_of_speech": ["Adjective", "Adverb"],
+    "definition": {
+        "Adjective": "Paid in advance or at the beginning.",
+        "Adverb": "In an open and honest way."
+    },
+    "examples": [
+        "The company requires an upfront payment before starting the project.",
+        "He was upfront about his intentions from the start."
+    ],
+    "related_words": ["advance", "straightforward", "honest"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "shove",
+    "pronunciation": "/ʃʌv/",
+    "translation": "推, 挤",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To push someone or something in a rough or careless way."
+    },
+    "examples": [
+        "He shoved the door open and walked in.",
+        "She gave him a shove to get him out of the way."
+    ],
+    "related_words": ["push", "thrust", "jostle"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "inhale",
+    "pronunciation": "/ɪnˈheɪl/",
+    "translation": "吸入, 吸气",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To breathe in air, gas, smoke, etc."
+    },
+    "examples": [
+        "She inhaled deeply before starting her speech.",
+        "He accidentally inhaled some smoke from the fire."
+    ],
+    "related_words": ["breathe in", "sniff", "draw in"],
+    "date_added": "2024/08/27"
+},
+    {
+    "word": "squander",
+    "pronunciation": "/ˈskwɒndər/",
+    "translation": "浪费，挥霍",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To waste (something, especially money or time) in a reckless and foolish manner.\n\"Squander\" is a strong verb that implies not just using something up, but wasting it in a particularly careless or foolish way. It's often used in contexts related to:\n\nFinancial resources: Spending money recklessly or on unnecessary things.\nTime: Using time ineffectively or on trivial matters.\nOpportunities: Failing to take advantage of favorable circumstances.\nTalents or abilities: Not making good use of one's skills or potential.\n\nThe word carries a negative connotation and often implies regret or criticism for the wasteful action."
+
+    },
+    "examples": [
+        "He squandered his inheritance on luxury cars and expensive holidays.",
+        "Don't squander this opportunity; it may not come again."
+    ],
+    "related_words": ["waste", "fritter", "dissipate"],
+    "date_added": "2024/8/27"
+},
+    {
+    "word": "frivolous",
+    "pronunciation": "/ˈfrɪvələs/",
+    "translation": "轻浮的，无聊的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Not having any serious purpose or value; not serious in content, attitude, or behavior."
+    },
+    "examples": [
+        "She dismissed his frivolous comments and focused on the important issues.",
+        "The court deemed the lawsuit frivolous and threw it out."
+    ],
+    "related_words": ["trivial", "superficial", "trifling"],
+    "date_added": "2024/8/27",
+    "further_explanation": "The term 'frivolous' is often used to describe actions, attitudes, or things that lack seriousness or importance. It can be applied in various contexts:\n1. In everyday language: To describe silly or pointless activities or concerns.\n2. In legal contexts: Referring to lawsuits or legal motions that lack any merit or are filed without sufficient grounds.\n3. In spending: Describing unnecessary or extravagant purchases.\n4. In behavior: Characterizing someone who doesn't take important matters seriously.\nThe word generally carries a negative connotation, implying that something or someone is not worth taking seriously."
+},
+    {
+    "word": "recoup",
+    "pronunciation": "/rɪˈkuːp/",
+    "translation": "收回，弥补",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To regain (something lost, especially money); to recuperate. 2. To compensate for (a loss or expense)."
+    },
+    "examples": [
+        "The company hopes to recoup its investment within five years.",
+        "She worked overtime to recoup the time she lost while on vacation."
+    ],
+    "related_words": ["recover", "regain", "reimburse"],
+    "date_added": "2024/8/26",
+    "further_explanation": "The word 'recoup' is often used in financial contexts, but it can apply to various situations where something is being recovered or compensated for:\n1. Business: Companies often talk about recouping costs or investments.\n2. Personal finance: Individuals might recoup losses from bad investments.\n3. Time management: People can recoup lost time by working more efficiently.\n4. Energy: Athletes might need to recoup their strength after a tough match.\n5. Legal contexts: Parties in a lawsuit might seek to recoup legal fees.\nThe term implies a process of getting back to a previous position or state, often after a loss or setback. It's generally viewed as a positive action, indicating resilience and recovery."
+}
 ]
