@@ -614,11 +614,52 @@
     "related_words": ["surprise", "shock", "alarm"],
     "date_added": "2024/8/26"
 }
-
-
-
-
     ,
+    {
+    "word": "desecrate",
+    "pronunciation": "/ˈdesɪkreɪt/",
+    "translation": "亵渎，玷污",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To treat a sacred place or thing with violent disrespect; to violate the sanctity of something."
+    },
+    "examples": [
+        "Vandals desecrated the ancient tomb by spray-painting graffiti on its walls.",
+        "The protesters were accused of desecrating the national flag."
+    ],
+    "related_words": ["profane", "defile", "violate"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "imbue",
+    "pronunciation": "/ɪmˈbjuː/",
+    "translation": "渗透，灌输",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To inspire or permeate with a feeling or quality."
+    },
+    "examples": [
+        "The teacher tried to imbue her students with a love of learning.",
+        "His speeches imbue the audience with hope and optimism."
+    ],
+    "related_words": ["infuse", "permeate", "saturate"],
+    "date_added": "2024/8/26"
+},
+    {
+    "word": "inflict",
+    "pronunciation": "/ɪnˈflɪkt/",
+    "translation": "使遭受，加害",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To cause (something unpleasant or painful) to be suffered by someone or something; to impose."
+    },
+    "examples": [
+        "The boxer inflicted a crushing defeat on his opponent.",
+        "The storm inflicted severe damage on the coastal town."
+    ],
+    "related_words": ["impose", "cause", "administer"],
+    "date_added": "2024/8/26"
+},
     {
     "word": "hustle",
     "pronunciation": "/ˈhʌsəl/",
@@ -1107,7 +1148,7 @@
         "She worked overtime to recoup the time she lost while on vacation."
     ],
     "related_words": ["recover", "regain", "reimburse"],
-    "date_added": "2024/8/26",
+    "date_added": "2024/8/27",
     "further_explanation": "The word 'recoup' is often used in financial contexts, but it can apply to various situations where something is being recovered or compensated for:\n1. Business: Companies often talk about recouping costs or investments.\n2. Personal finance: Individuals might recoup losses from bad investments.\n3. Time management: People can recoup lost time by working more efficiently.\n4. Energy: Athletes might need to recoup their strength after a tough match.\n5. Legal contexts: Parties in a lawsuit might seek to recoup legal fees.\nThe term implies a process of getting back to a previous position or state, often after a loss or setback. It's generally viewed as a positive action, indicating resilience and recovery."
 }
 ]
