@@ -15,4 +15,4 @@
 - [demoralizing](demoralizing.md)
 - [dispiriting](dispiriting.md)
 ### Date Added
-2024/8/27
+2024-08-27 00:00:00

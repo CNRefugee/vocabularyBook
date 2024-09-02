@@ -15,7 +15,7 @@
 - [superficial](superficial.md)
 - [trifling](trifling.md)
 ### Date Added
-2024/8/27
+2024-08-27 00:00:00
 
 ### Further Explanation
 The term 'frivolous' is often used to describe actions, attitudes, or things that lack seriousness or importance. It can be applied in various contexts:

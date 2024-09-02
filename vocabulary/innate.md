@@ -15,4 +15,4 @@
 - [natural](natural.md)
 - [inherent](inherent.md)
 ### Date Added
-2024-08-07
+2024-08-07 00:00:00

@@ -15,7 +15,7 @@
 - [regain](regain.md)
 - [reimburse](reimburse.md)
 ### Date Added
-2024/8/27
+2024-08-27 00:00:00
 
 ### Further Explanation
 The word 'recoup' is often used in financial contexts, but it can apply to various situations where something is being recovered or compensated for:

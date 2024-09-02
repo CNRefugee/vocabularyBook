@@ -17,4 +17,4 @@
 - [admiration](admiration.md)
 - [reverence](reverence.md)
 ### Date Added
-2024/8/19
+2024-08-19 00:00:00

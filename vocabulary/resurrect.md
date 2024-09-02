@@ -15,4 +15,4 @@
 - [restore](restore.md)
 - [reawaken](reawaken.md)
 ### Date Added
-2024/8/26
+2024-08-26 00:00:00

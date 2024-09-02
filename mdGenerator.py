@@ -1,6 +1,7 @@
 import os
 import json
 import random
+from datetime import datetime
 
 class VocabularyNote:
     def __init__(self, word, pronunciation, translation, part_of_speech, definition, examples, related_words, date_added, further_explanation=None):
@@ -11,7 +12,7 @@ class VocabularyNote:
         self.definition = definition
         self.examples = examples
         self.related_words = related_words
-        self.date_added = date_added
+        self.date_added = datetime.strptime(date_added, "%Y/%m/%d")  # 将字符串转换为日期对象
         self.further_explanation = further_explanation
 
     def to_markdown(self):
@@ -62,15 +63,16 @@ def generate_vocabulary_notes(metadata_file="metadata.json"):
 def generate_index_page(vocabulary_notes, directory="index", num_words=10):
     os.makedirs(directory, exist_ok=True)
 
-    # Sort vocabulary by date
+    # 按日期排序词汇
     vocabulary_notes.sort(key=lambda x: x.date_added)
 
     index_content = "# Vocabulary Index\n\n"
     current_date = ""
 
     for note in vocabulary_notes:
-        if note.date_added != current_date:
-            current_date = note.date_added
+        note_date = note.date_added.strftime("%Y/%m/%d")
+        if note_date != current_date:
+            current_date = note_date
             index_content += f"### {current_date}\n\n"
 
         index_content += f"- [{note.word}](../vocabulary/{note.word}.md)\n"

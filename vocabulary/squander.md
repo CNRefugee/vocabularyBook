@@ -23,4 +23,4 @@ The word carries a negative connotation and often implies regret or criticism fo
 - [fritter](fritter.md)
 - [dissipate](dissipate.md)
 ### Date Added
-2024/8/27
+2024-08-27 00:00:00

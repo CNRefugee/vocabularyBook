@@ -15,4 +15,4 @@
 - [reduce](reduce.md)
 - [ease](ease.md)
 ### Date Added
-2024/8/19
+2024-08-19 00:00:00

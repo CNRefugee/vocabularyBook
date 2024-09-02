@@ -20,4 +20,4 @@
 - [slant](slant.md)
 - [tilt](tilt.md)
 ### Date Added
-2024-07-30
+2024-07-30 00:00:00

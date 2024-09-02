@@ -15,7 +15,7 @@
             "The discovery of gold heralded a new era of prosperity for the region."
         ],
         "related_words": ["messenger", "announce", "signal"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "overhaul",
@@ -32,7 +32,7 @@
             "After years of neglect, the building was overhauled to meet current safety standards."
         ],
         "related_words": ["repair", "revamp", "rebuild"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "slew",
@@ -49,7 +49,7 @@
             "He slewed the boat around to face the wind."
         ],
         "related_words": ["multitude", "abundance", "glide"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "skew",
@@ -67,7 +67,7 @@
             "There is a noticeable skew in the distribution of the results."
         ],
         "related_words": ["distort", "slant", "tilt"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "buzzy",
@@ -82,7 +82,7 @@
             "The tech startup scene is quite buzzy right now."
         ],
         "related_words": ["vibrant", "lively", "trendy"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "dire",
@@ -97,7 +97,7 @@
             "The situation became dire when the storm hit."
         ],
         "related_words": ["urgent", "critical", "grave"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "headwind",
@@ -113,7 +113,7 @@
             "The company faced significant headwinds in the market."
         ],
         "related_words": ["opposition", "resistance", "obstacle"],
-        "date_added": "2024-07-30"
+        "date_added": "2024/07/30"
     },
     {
         "word": "grim",
@@ -128,7 +128,7 @@
             "He looked at her with a grim expression."
         ],
         "related_words": ["harsh", "bleak", "stern"],
-        "date_added": "2024-08-07"
+        "date_added": "2024/08/07"
     },
     {
         "word": "resign",
@@ -143,7 +143,7 @@
             "After the scandal, he had no choice but to resign."
         ],
         "related_words": ["quit", "leave", "abdicate"],
-        "date_added": "2024-08-14"
+        "date_added": "2024/08/14"
     },
     {
     "word": "futile",
@@ -158,7 +158,7 @@
         "It was futile to continue the argument."
     ],
     "related_words": ["useless", "pointless", "vain"],
-    "date_added": "2024-08-14"
+    "date_added": "2024/08/14"
 },
     {
     "word": "innate",
@@ -173,7 +173,7 @@
         "The ability to speak is an innate human characteristic."
     ],
     "related_words": ["inborn", "natural", "inherent"],
-    "date_added": "2024-08-07"
+    "date_added": "2024/08/07"
 },
     {
     "word": "intent",
@@ -189,7 +189,7 @@
         "She looked at him with an intent expression."
     ],
     "related_words": ["purpose", "objective", "resolve"],
-    "date_added": "2024-08-14"
+    "date_added": "2024/08/14"
 },
     {
     "word": "infatuate",
@@ -204,7 +204,7 @@
         "The young artist became infatuated with fame."
     ],
     "related_words": ["obsess", "bewitch", "captivate"],
-    "date_added": "2024-08-14"
+    "date_added": "2024/08/14"
 },
     {
         "word": "shatter",
@@ -1150,5 +1150,73 @@
     "related_words": ["recover", "regain", "reimburse"],
     "date_added": "2024/8/27",
     "further_explanation": "The word 'recoup' is often used in financial contexts, but it can apply to various situations where something is being recovered or compensated for:\n1. Business: Companies often talk about recouping costs or investments.\n2. Personal finance: Individuals might recoup losses from bad investments.\n3. Time management: People can recoup lost time by working more efficiently.\n4. Energy: Athletes might need to recoup their strength after a tough match.\n5. Legal contexts: Parties in a lawsuit might seek to recoup legal fees.\nThe term implies a process of getting back to a previous position or state, often after a loss or setback. It's generally viewed as a positive action, indicating resilience and recovery."
+},
+    {
+    "word": "exhale",
+    "pronunciation": "/eksˈheɪl/",
+    "translation": "呼气，吐气",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To breathe out air from the lungs. 2. To emit or give off (steam, fumes, etc.)."
+    },
+    "examples": [
+        "Inhale deeply, then slowly exhale through your mouth.",
+        "The factory chimneys exhaled thick plumes of smoke into the sky."
+    ],
+    "related_words": ["breathe out", "expel", "release"],
+    "date_added": "2024/8/30",
+    "further_explanation": "The word 'exhale' is commonly used in various contexts:\n1. Physiology: It refers to the act of breathing out, which is part of the respiratory process.\n2. Meditation and Yoga: Often used in instructions for breathing exercises.\n3. Figurative use: Can mean to express relief or release tension, as in 'She exhaled her worries'.\n4. Environmental: Describing the release of gases or vapors from objects or substances.\n5. Emotional context: Sometimes used to describe releasing emotions, as in 'He exhaled his frustration'.\nThe term is often paired with its opposite, 'inhale', particularly in contexts related to breathing exercises or relaxation techniques."
+},
+    {
+    "word": "panting",
+    "pronunciation": "/ˈpæntɪŋ/",
+    "translation": "喘气，气喘吁吁",
+    "part_of_speech": ["Verb", "Noun", "Adjective"],
+    "definition": {
+        "Verb": "To breathe rapidly and with difficulty, typically due to exertion or excitement.",
+        "Noun": "The action of breathing rapidly and with difficulty.",
+        "Adjective": "Breathing rapidly and with difficulty."
+    },
+    "examples": [
+        "The dog was panting heavily after the long run.",
+        "We could hear the panting of the runners as they approached the finish line.",
+        "The panting athlete collapsed at the end of the marathon."
+    ],
+    "related_words": ["gasp", "breathe heavily", "huff"],
+    "date_added": "2024/8/30",
+    "further_explanation": "The word 'panting' is used in various contexts:\n1. Physical exertion: Often describes breathing after intense exercise or physical activity.\n2. Animal behavior: Commonly used to describe how dogs regulate their body temperature through rapid breathing.\n3. Medical context: Can indicate respiratory distress or other health issues.\n4. Emotional states: Sometimes used to convey excitement, fear, or anxiety.\n5. Literary use: May be used metaphorically to describe intense desire or eagerness.\nPanting is characterized by quick, shallow breaths and is distinct from normal breathing or gasping. It's a natural response to increased oxygen demand or the need to cool down."
+},
+    {
+    "word": "lurking",
+    "pronunciation": "/ˈlɜːrkɪŋ/",
+    "translation": "潜伏,潜藏",
+    "part_of_speech": ["Verb", "Adjective"],
+    "definition": {
+        "Verb": "To be or remain in a particular place, especially in a stealthy or secretive way.",
+        "Adjective": "Lying in wait, hidden, or concealed, especially with a threat or danger."
+    },
+    "examples": [
+        "The burglar was lurking in the shadows, waiting for the homeowners to leave.",
+        "The lurking danger of online scams is a constant concern for internet users."
+    ],
+    "related_words": ["hiding", "concealed", "stealthy"],
+    "date_added": "2024/09/02",
+    "further_explanation": "The term 'lurking' is often used to describe a hidden, stealthy, or secretive presence or action. In the context of online communities, 'lurking' refers to the act of passively observing conversations or activities without actively participating. The adjective form 'lurking' emphasizes the sense of danger or threat that may be associated with something that is hidden or concealed."
+},
+    {
+    "word": "confluence",
+    "pronunciation": "/ˈkɒnfluːəns/",
+    "translation": "汇合,交汇",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. The point at which two or more rivers or streams meet and join. 2. The act or process of merging, flowing, or coming together; the place of meeting."
+    },
+    "examples": [
+        "The confluence of the Yangtze and Jialing rivers is a major landmark in Chongqing.",
+        "The confluence of ideas and perspectives at the conference led to innovative solutions."
+    ],
+    "related_words": ["junction", "convergence", "merging"],
+    "date_added": "2024/09/02",
+    "further_explanation": "The term 'confluence' is commonly used in both physical and figurative contexts:\n1. Geography: Refers to the point where two or more rivers, streams, or other bodies of water meet and join together.\n2. Figurative usage: Describes the merging or coming together of various elements, such as ideas, influences, or events.\nIn the geographical sense, the confluence is often an important location, as it can affect water flow, navigation, and ecosystem dynamics. In the figurative sense, the concept of confluence implies the integration or synthesis of different components into a unified whole.\nThe word is frequently used in discussions about urban planning, collaboration, and the interdisciplinary nature of various fields. Confluence can suggest a productive exchange of perspectives or the convergence of diverse elements to create something new."
 }
 ]
