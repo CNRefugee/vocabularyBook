@@ -1218,5 +1218,77 @@
     "related_words": ["junction", "convergence", "merging"],
     "date_added": "2024/09/02",
     "further_explanation": "The term 'confluence' is commonly used in both physical and figurative contexts:\n1. Geography: Refers to the point where two or more rivers, streams, or other bodies of water meet and join together.\n2. Figurative usage: Describes the merging or coming together of various elements, such as ideas, influences, or events.\nIn the geographical sense, the confluence is often an important location, as it can affect water flow, navigation, and ecosystem dynamics. In the figurative sense, the concept of confluence implies the integration or synthesis of different components into a unified whole.\nThe word is frequently used in discussions about urban planning, collaboration, and the interdisciplinary nature of various fields. Confluence can suggest a productive exchange of perspectives or the convergence of diverse elements to create something new."
+},
+    {
+    "word": "hoard",
+    "pronunciation": "/hɔːd/",
+    "translation": "贮藏, 囤积",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A stock or store of money or valued objects, typically one that is secret or carefully guarded.",
+        "Verb": "1. To accumulate (money or valued objects) and hide or store away."
+    },
+    "examples": [
+        "The archaeologists discovered a hoard of ancient coins buried in the field.",
+        "He tends to hoard old magazines and newspapers in his garage."
+    ],
+    "related_words": ["stockpile", "stash", "accumulate"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The word 'hoard' often implies collecting items in secret or keeping a large quantity of something for future use. This term is used both literally, such as hoarding food or money, and figuratively, such as hoarding information or emotions. In some cases, hoarding can have a negative connotation, suggesting an excessive or unreasonable accumulation of items."
+},
+    {
+    "word": "tiptoe",
+    "pronunciation": "/ˈtɪptoʊ/",
+    "translation": "踮着脚走",
+    "part_of_speech": ["Noun", "Verb", "Adverb"],
+    "definition": {
+        "Noun": "1. The act of walking on the toes or on the balls of the feet, typically to avoid making noise.",
+        "Verb": "1. To walk carefully and quietly on the tips of one's toes.",
+        "Adverb": "1. In a manner that is quiet and careful, often to avoid detection."
+    },
+    "examples": [
+        "She had to tiptoe around the house so as not to wake the baby.",
+        "He was on tiptoe, trying to reach the book on the top shelf."
+    ],
+    "related_words": ["creep", "sneak", "stealth"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The term 'tiptoe' describes a delicate and careful movement, often associated with trying not to make noise or to avoid drawing attention. It can be used literally, as in walking lightly, or metaphorically, as in cautiously approaching a sensitive topic or situation."
+},
+    {
+    "word": "grapple",
+    "pronunciation": "/ˈɡræpəl/",
+    "translation": "抓住, 格斗, 努力解决",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. An act of wrestling or struggling, typically in a close and direct manner.",
+        "Verb": "1. To engage in a close fight or struggle without weapons; to wrestle.\n2. To struggle with or try to overcome a challenge or problem."
+    },
+    "examples": [
+        "The two wrestlers grappled for control in the ring.",
+        "She had to grapple with the complex issues presented by the project."
+    ],
+    "related_words": ["wrestle", "struggle", "contend"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The word 'grapple' can be used both literally and figuratively. Literally, it refers to physical combat or wrestling, where two parties are locked in a close struggle. Figuratively, 'grapple' describes the process of confronting or dealing with a difficult situation or problem. The term suggests a hands-on, direct approach to overcoming obstacles or challenges."
+},
+    {
+    "word": "rationale",
+    "pronunciation": "/ˌræʃəˈnæl/",
+    "translation": "基本原理, 理由",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A set of reasons or logical basis for a course of action, belief, or decision."
+    },
+    "examples": [
+        "The rationale behind the new policy was to improve workplace efficiency.",
+        "She explained the rationale for her decision to leave the company."
+    ],
+    "related_words": ["reasoning", "justification", "basis"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The word 'rationale' refers to the underlying reasoning or logic that justifies a particular action, belief, or decision. It often involves a careful analysis of the factors involved and is used to explain why something is done in a certain way. In discussions, the rationale is typically provided to give context or to persuade others of the validity of a choice."
 }
+
+
+
+
 ]

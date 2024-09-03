@@ -87,9 +87,6 @@
 - [squander](../vocabulary/squander.md)
 - [frivolous](../vocabulary/frivolous.md)
 - [recoup](../vocabulary/recoup.md)
-### 2024/08/28
-
-- [confluence](../vocabulary/confluence.md)
 ### 2024/08/30
 
 - [exhale](../vocabulary/exhale.md)
@@ -97,3 +94,9 @@
 ### 2024/09/02
 
 - [lurking](../vocabulary/lurking.md)
+- [confluence](../vocabulary/confluence.md)
+### 2024/09/03
+
+- [hoard](../vocabulary/hoard.md)
+- [tiptoe](../vocabulary/tiptoe.md)
+- [grapple](../vocabulary/grapple.md)
