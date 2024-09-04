@@ -1286,7 +1286,93 @@
     "related_words": ["reasoning", "justification", "basis"],
     "date_added": "2024/09/03",
     "further_explanation": "The word 'rationale' refers to the underlying reasoning or logic that justifies a particular action, belief, or decision. It often involves a careful analysis of the factors involved and is used to explain why something is done in a certain way. In discussions, the rationale is typically provided to give context or to persuade others of the validity of a choice."
+},
+    {
+    "word": "conceive",
+    "pronunciation": "/kənˈsiːv/",
+    "translation": "构想, 想象, 怀孕",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To form or develop an idea or plan in the mind.\n2. To become pregnant with a child.\n3. To understand or comprehend something.\n4. To think of or consider something in a particular way."
+    },
+    "examples": [
+        "The engineer conceived a new design for the bridge.",
+        "They were overjoyed when they conceived their first child.",
+        "He couldn’t conceive how anyone could dislike chocolate.",
+        "She conceived of the project as a way to improve community relations."
+    ],
+    "related_words": ["envision", "imagine", "understand", "create"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The verb 'conceive' has multiple meanings that range from the abstract creation of ideas to the literal process of becoming pregnant. When you conceive an idea, you are forming it in your mind, often as a plan or concept. In a biological context, it refers to the beginning of pregnancy. The word can also be used to describe understanding something or viewing it in a certain way, highlighting its versatility in both everyday and specialized contexts."
 }
+,{
+    "word": "ditch",
+    "pronunciation": "/dɪtʃ/",
+    "translation": "沟渠, 丢弃",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A narrow channel dug in the ground, typically used for drainage alongside a road or field.",
+        "Verb": "2. To get rid of something or abandon it; to leave someone suddenly or without explanation."
+    },
+    "examples": [
+        "The farmer dug a ditch around the field to improve drainage.",
+        "He decided to ditch his old phone and buy a new one."
+    ],
+    "related_words": ["trench", "abandon", "discard"],
+    "date_added": "2024/09/04",
+    "further_explanation": "The word 'ditch' can be used both as a noun and a verb. As a noun, it refers to a trench or narrow channel typically used for drainage purposes. As a verb, it means to abandon or get rid of something, or to leave someone suddenly. The verb form is often used in informal contexts, especially when talking about leaving someone or something abruptly."
+},
+    {
+    "word": "gimmick",
+    "pronunciation": "/ˈɡɪmɪk/",
+    "translation": "噱头, 小玩意",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A trick or device intended to attract attention, publicity, or business, often with little real value or substance."
+    },
+    "examples": [
+        "The company's latest marketing campaign was dismissed as a gimmick with no real innovation.",
+        "The store offered a free gift as a gimmick to entice customers."
+    ],
+    "related_words": ["trick", "ploy", "stunt"],
+    "date_added": "2024/09/03",
+    "further_explanation": "A 'gimmick' is often used in a marketing or promotional context to refer to something designed to attract attention or interest but which may lack genuine value or substance. It can sometimes carry a negative connotation, implying that the gimmick is superficial or deceptive."
+}
+,{
+    "word": "eradicate",
+    "pronunciation": "/ɪˈrædɪkeɪt/",
+    "translation": "根除, 消灭",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To completely remove or eliminate something, especially something harmful or undesirable."
+    },
+    "examples": [
+        "The government launched a campaign to eradicate illiteracy in rural areas.",
+        "Scientists are working hard to eradicate diseases like malaria."
+    ],
+    "related_words": ["eliminate", "exterminate", "abolish"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The word 'eradicate' is often used in contexts where something harmful or undesirable is being completely removed or destroyed. It is a strong term implying thoroughness and permanence in the removal process."
+}
+,
+    {
+    "word": "terrestrial",
+    "pronunciation": "/təˈrɛstriəl/",
+    "translation": "陆地的, 地球的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. Relating to the Earth or land, as opposed to water or air. 2. Pertaining to the planet Earth as distinct from other planets or celestial bodies."
+    },
+    "examples": [
+        "The terrestrial environment includes forests, deserts, and grasslands.",
+        "Astronomers are searching for terrestrial planets that might support life."
+    ],
+    "related_words": ["earthly", "land-based", "planetary"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The word 'terrestrial' is often used in contrast to aquatic (water-based) or celestial (space-related) contexts. It can describe anything related to land or the Earth, including animals, ecosystems, and even planets that are Earth-like."
+}
+
+
 
 
 

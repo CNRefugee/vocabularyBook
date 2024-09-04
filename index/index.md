@@ -100,3 +100,11 @@
 - [hoard](../vocabulary/hoard.md)
 - [tiptoe](../vocabulary/tiptoe.md)
 - [grapple](../vocabulary/grapple.md)
+- [rationale](../vocabulary/rationale.md)
+- [conceive](../vocabulary/conceive.md)
+- [gimmick](../vocabulary/gimmick.md)
+- [eradicate](../vocabulary/eradicate.md)
+- [terrestrial](../vocabulary/terrestrial.md)
+### 2024/09/04
+
+- [ditch](../vocabulary/ditch.md)
