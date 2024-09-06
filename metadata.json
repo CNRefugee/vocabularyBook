@@ -1667,5 +1667,69 @@
     "related_words": ["coin", "nickel", "penny"],
     "date_added": "2024/09/06",
     "further_explanation": "The dime is the smallest and thinnest of all U.S. coins, widely recognized for its value of ten cents."
+},
+    {
+    "word": "sallow",
+    "pronunciation": "/ˈsæləʊ/",
+    "translation": "蜡黄的，灰黄色的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. (of a person's face or complexion) of an unhealthy yellow or pale brown color. 2. (of light) sickly or unpleasant in color."
+    },
+    "examples": [
+        "Years of working night shifts had given him a sallow complexion.",
+        "The sallow light of the fluorescent bulbs made everyone look ill."
+    ],
+    "related_words": ["pale", "wan", "jaundiced"],
+    "date_added": "2024/09/06",
+    "further_explanation": "The term 'sallow' primarily describes an unhealthy yellowish skin appearance, often indicating poor health or fatigue. It's used in health contexts, literary descriptions, to describe unpleasant lighting, and sometimes metaphorically for gloomy moods. The word implies a specific unhealthy hue, more precise than simply 'pale', and carries connotations of illness or poor living conditions."
+},
+    {
+    "word": "complexion",
+    "pronunciation": "/kəmˈplekʃən/",
+    "translation": "肤色，面色",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. The natural color, texture, and appearance of a person's skin, especially of the face. 2. The general aspect or character of something."
+    },
+    "examples": [
+        "She had a fair complexion that burned easily in the sun.",
+        "The economic complexion of the country changed dramatically after the new policies were implemented."
+    ],
+    "related_words": ["skin tone", "appearance", "aspect"],
+    "date_added": "2024/09/06",
+    "further_explanation": "While primarily referring to skin appearance, 'complexion' can also metaphorically describe the overall character or aspect of a situation. It's used in beauty, health, and medical contexts to discuss skin health, and in broader contexts to describe the nature or character of abstract concepts or situations."
+},
+    {
+    "word": "havoc",
+    "pronunciation": "/ˈhævək/",
+    "translation": "大破坏，浩劫",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "Widespread destruction, damage, or disorder; chaos."
+    },
+    "examples": [
+        "The hurricane wreaked havoc on the coastal towns.",
+        "Computer viruses can wreak havoc on a company's network."
+    ],
+    "related_words": ["destruction", "chaos", "devastation"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Often used with 'wreak' or 'play' (e.g., 'wreak havoc', 'play havoc'), the term emphasizes severe disruption or damage. It's used in various contexts, from natural disasters to personal life disruptions, conveying a sense of widespread and often uncontrollable negative impact."
+},
+    {
+    "word": "wreak",
+    "pronunciation": "/riːk/",
+    "translation": "造成，引起（尤指灾难性的后果）",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To cause or inflict (damage, harm, or vengeance), often with great force or intensity."
+    },
+    "examples": [
+        "The storm wreaked havoc on the coastal communities.",
+        "Her actions wreaked terrible consequences on the entire family."
+    ],
+    "related_words": ["cause", "inflict", "bring about"],
+    "date_added": "2024/09/03",
+    "further_explanation": "Most commonly used in the phrase 'wreak havoc,' but can be used with other nouns like 'vengeance' or 'damage.' It implies a powerful and often destructive action, emphasizing the severe impact of the subject on its object."
 }
 ]

@@ -105,6 +105,7 @@
 - [gimmick](../vocabulary/gimmick.md)
 - [eradicate](../vocabulary/eradicate.md)
 - [terrestrial](../vocabulary/terrestrial.md)
+- [wreak](../vocabulary/wreak.md)
 ### 2024/09/04
 
 - [ditch](../vocabulary/ditch.md)
@@ -130,3 +131,6 @@
 - [dimple](../vocabulary/dimple.md)
 - [exfoliate](../vocabulary/exfoliate.md)
 - [dime](../vocabulary/dime.md)
+- [sallow](../vocabulary/sallow.md)
+- [complexion](../vocabulary/complexion.md)
+- [havoc](../vocabulary/havoc.md)
