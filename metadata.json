@@ -1370,11 +1370,302 @@
     "related_words": ["earthly", "land-based", "planetary"],
     "date_added": "2024/09/03",
     "further_explanation": "The word 'terrestrial' is often used in contrast to aquatic (water-based) or celestial (space-related) contexts. It can describe anything related to land or the Earth, including animals, ecosystems, and even planets that are Earth-like."
+},
+    {
+    "word": "solace",
+    "pronunciation": "/ˈsɒlɪs/",
+    "translation": "安慰, 慰藉",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. Comfort or consolation in a time of distress.",
+        "Verb": "2. To give comfort or consolation."
+    },
+    "examples": [
+        "He found solace in reading after the difficult day.",
+        "She solaced her friend in their time of need."
+    ],
+    "related_words": ["comfort", "relief", "consolation"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Solace is often sought in difficult times as a source of emotional relief. It can be found in various forms like activities, relationships, or simply time alone."
+},
+    {
+    "word": "fleeting",
+    "pronunciation": "/ˈfliːtɪŋ/",
+    "translation": "短暂的, 稍纵即逝的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. Lasting for a very short time."
+    },
+    "examples": [
+        "The fleeting moment of happiness passed quickly.",
+        "She caught a fleeting glimpse of the sunset."
+    ],
+    "related_words": ["brief", "transitory", "momentary"],
+    "date_added": "2024/09/05",
+    "further_explanation": "The word 'fleeting' suggests something that is too brief to hold onto, often used to describe emotions, opportunities, or natural phenomena that quickly disappear."
+},
+    {
+    "word": "reprieve",
+    "pronunciation": "/rɪˈpriːv/",
+    "translation": "缓刑, 暂时解救",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A temporary relief or delay.",
+        "Verb": "2. To postpone or cancel punishment."
+    },
+    "examples": [
+        "The prisoner received a reprieve just before the execution.",
+        "The company was reprieved from closure by an investor."
+    ],
+    "related_words": ["pardon", "postponement", "respite"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Reprieve is often used in legal contexts to refer to a delay in punishment. It can also be used more broadly to describe any temporary relief from an unpleasant situation."
+},
+    {
+    "word": "authenticity",
+    "pronunciation": "/ɔːˌθɛntɪˈsɪti/",
+    "translation": "真实性, 可靠性",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. The quality of being genuine or real."
+    },
+    "examples": [
+        "The painting was examined for authenticity.",
+        "Her authenticity in expressing her feelings was appreciated."
+    ],
+    "related_words": ["genuineness", "truth", "validity"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Authenticity relates to being true to oneself or to an original source. In various contexts, it implies honesty and adherence to fact or origin, as opposed to imitation or falsity."
+},
+    {
+    "word": "disdain",
+    "pronunciation": "/dɪsˈdeɪn/",
+    "translation": "蔑视, 轻视",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. The feeling that someone or something is unworthy of respect.",
+        "Verb": "2. To regard or treat with contempt."
+    },
+    "examples": [
+        "He spoke of the proposal with disdain.",
+        "She disdained his offer of help."
+    ],
+    "related_words": ["contempt", "scorn", "disrespect"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Disdain is a strong term for an attitude of superiority or dismissal, often implying that something or someone is considered beneath one's dignity or worth."
+},
+    {
+    "word": "cubicle",
+    "pronunciation": "/ˈkjuːbɪk(ə)l/",
+    "translation": "隔间, 小单间",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A small partitioned space, often used in offices or public restrooms."
+    },
+    "examples": [
+        "She spent her workday in a small cubicle in the office.",
+        "The changing rooms are divided into individual cubicles."
+    ],
+    "related_words": ["partition", "booth", "compartment"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Cubicles are often associated with office spaces, where individuals work in confined areas separated by partitions. They are also used in public restrooms, gyms, or changing rooms to provide privacy."
+},
+    {
+    "word": "defy",
+    "pronunciation": "/dɪˈfaɪ/",
+    "translation": "反抗, 蔑视, 挑战",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To openly resist or refuse to obey.",
+        "Verb": "2. To challenge or confront something with a sense of boldness."
+    },
+    "examples": [
+        "The protesters defied the government's orders.",
+        "She defied all expectations by succeeding in the task."
+    ],
+    "related_words": ["resist", "oppose", "disobey", "challenge"],
+    "date_added": "2024/09/05",
+    "further_explanation": "The word 'defy' is commonly used in situations where someone refuses to comply with authority or accepted norms, often with a sense of boldness or courage."
+},
+    {
+  "word": "stance",
+  "pronunciation": "/stæns/",
+  "translation": "立场, 态度",
+  "part_of_speech": ["Noun"],
+  "definition": {
+    "Noun": "1. A person's posture or the position in which they stand, especially for sports or physical activity. 2. An attitude or position on a particular issue or topic."
+  },
+  "examples": [
+    "The politician's stance on climate change has gained a lot of attention.",
+    "His defensive stance helped him block the opponent's kick."
+  ],
+  "related_words": ["position", "viewpoint", "perspective"],
+  "date_added": "2024/09/05",
+  "further_explanation": "In sports, 'stance' refers to how someone positions their body for balance or performance. In a figurative sense, it reflects someone's opinion or position on a matter, often used in discussions of policy, politics, or debate."
+},
+    {
+  "word": "withstand",
+  "pronunciation": "/wɪðˈstænd/",
+  "translation": "抵挡, 经受住",
+  "part_of_speech": ["Verb"],
+  "definition": {
+    "Verb": "1. To remain unaffected by or resist the force of something, especially pressure or hardship."
+  },
+  "examples": [
+    "The building was designed to withstand earthquakes.",
+    "She managed to withstand the criticism from her colleagues."
+  ],
+  "related_words": ["resist", "endure", "tolerate"],
+  "date_added": "2024/09/05",
+  "further_explanation": "Withstand is often used in contexts where something is enduring a challenging or negative force. It emphasizes resilience and resistance."
+},
+    {
+  "word": "comply",
+  "pronunciation": "/kəmˈplaɪ/",
+  "translation": "遵守, 服从",
+  "part_of_speech": ["Verb"],
+  "definition": {
+    "Verb": "1. To act in accordance with rules, standards, or requests."
+  },
+  "examples": [
+    "All companies must comply with the new safety regulations.",
+    "He complied with his parents' request to clean his room."
+  ],
+  "related_words": ["obey", "conform", "follow"],
+  "date_added": "2024/09/05",
+  "further_explanation": "The word 'comply' is commonly used in legal, organizational, or social contexts where one adheres to rules or requests."
+},
+    {
+    "word": "rinse",
+    "pronunciation": "/rɪns/",
+    "translation": "冲洗, 漂洗",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "1. To wash something quickly with clean water to remove soap, dirt, or residue.",
+        "Noun": "1. The act of washing something with clean water, especially to remove soap."
+    },
+    "examples": [
+        "After shampooing, rinse your hair thoroughly with water.",
+        "She gave the vegetables a quick rinse before cooking."
+    ],
+    "related_words": ["wash", "cleanse", "flush"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Rinse is commonly used in everyday contexts, particularly when referring to cleaning or washing something quickly. It often implies removing superficial dirt or residue rather than deep cleaning."
+},
+    {
+    "word": "hydrate",
+    "pronunciation": "/ˈhaɪdreɪt/",
+    "translation": "补水, 保湿",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To supply water to something to maintain moisture levels. 2. To absorb water or fluid, often referring to the skin or body."
+    },
+    "examples": [
+        "It's important to hydrate your skin daily to keep it healthy.",
+        "Drinking plenty of water helps to hydrate the body."
+    ],
+    "related_words": ["moisten", "dampen", "replenish"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Hydrate is commonly used in skincare, health, and science contexts, referring to the process of adding or maintaining moisture, whether in the body or external substances."
+},
+    {
+    "word": "damp",
+    "pronunciation": "/dæmp/",
+    "translation": "潮湿的, 微湿的",
+    "part_of_speech": ["Adjective", "Verb", "Noun"],
+    "definition": {
+        "Adjective": "1. Slightly wet or moist, often in an unpleasant way.",
+        "Verb": "1. To make something slightly wet.",
+        "Noun": "1. Moisture or humidity, especially in the air or on a surface."
+    },
+    "examples": [
+        "The damp clothes need more time to dry.",
+        "She damped the cloth to clean the table."
+    ],
+    "related_words": ["moist", "humid", "wet"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Damp often refers to slight moisture that is not fully wet but may feel unpleasant, such as in the air or on surfaces."
+},
+    {
+    "word": "pore",
+    "pronunciation": "/pɔːr/",
+    "translation": "毛孔, 微小孔",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A tiny opening on the surface of the skin, or on the surface of plants, that allows fluids or gases to pass through.",
+        "Verb": "1. To study or read something carefully or attentively (often used with 'over')."
+    },
+    "examples": [
+        "The pores in her skin became more noticeable after exercising.",
+        "He pored over the old manuscripts for hours."
+    ],
+    "related_words": ["opening", "perforation", "study"],
+    "date_added": "2024/09/06",
+    "further_explanation": "As a noun, 'pore' typically refers to small openings in biological surfaces. As a verb, it describes focusing intensely on reading or studying something."
+},
+    {
+    "word": "milia",
+    "pronunciation": "/ˈmɪliə/",
+    "translation": "粟粒疹, 脂肪粒",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. Small, white cysts that form on the skin, typically around the eyes or cheeks, as a result of trapped keratin."
+    },
+    "examples": [
+        "Milia commonly appear in newborns but can also affect adults.",
+        "After the treatment, her milia gradually disappeared."
+    ],
+    "related_words": ["cysts", "whiteheads", "keratin"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Milia are tiny skin bumps caused by trapped dead skin cells (keratin). They are harmless and often resolve on their own but may require treatment in some cases."
+},
+    {
+    "word": "dimple",
+    "pronunciation": "/ˈdɪmpəl/",
+    "translation": "酒窝, 小凹",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A small, natural indentation in the surface of something, especially in the skin, usually in the cheeks or chin.",
+        "Verb": "2. To form or create a small dent or hollow, particularly in the skin."
+    },
+    "examples": [
+        "She had a cute dimple when she smiled.",
+        "The pebble dimpled the surface of the water."
+    ],
+    "related_words": ["indentation", "pit", "hollow"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Dimples are often seen as attractive features, particularly when they appear on the cheeks or chin during smiling. They can also form on other surfaces, like water."
+},
+    {
+    "word": "exfoliate",
+    "pronunciation": "/ɪkˈsfəʊ.li.eɪt/",
+    "translation": "去角质, 剥落",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To remove dead cells from the surface of the skin to make it smoother and clearer.\n2. To shed layers or scales."
+    },
+    "examples": [
+        "You should exfoliate your skin once a week to maintain a smooth complexion.",
+        "The tree bark exfoliates naturally over time."
+    ],
+    "related_words": ["scrub", "peel", "shed"],
+    "date_added": "2024/09/06",
+    "further_explanation": "Exfoliation can refer to skincare routines where dead skin cells are removed, or natural processes like the shedding of bark or layers of a mineral."}
+,
+{
+    "word": "dime",
+    "pronunciation": "/daɪm/",
+    "translation": "一角硬币",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A U.S. coin worth ten cents."
+    },
+    "examples": [
+        "He found a dime under the couch.",
+        "Prices haven't been this low since a dime could buy a meal."
+    ],
+    "related_words": ["coin", "nickel", "penny"],
+    "date_added": "2024/09/06",
+    "further_explanation": "The dime is the smallest and thinnest of all U.S. coins, widely recognized for its value of ten cents."
 }
-
-
-
-
-
-
 ]

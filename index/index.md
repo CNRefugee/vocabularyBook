@@ -108,3 +108,25 @@
 ### 2024/09/04
 
 - [ditch](../vocabulary/ditch.md)
+### 2024/09/05
+
+- [solace](../vocabulary/solace.md)
+- [fleeting](../vocabulary/fleeting.md)
+- [reprieve](../vocabulary/reprieve.md)
+- [authenticity](../vocabulary/authenticity.md)
+- [disdain](../vocabulary/disdain.md)
+- [cubicle](../vocabulary/cubicle.md)
+- [defy](../vocabulary/defy.md)
+- [stance](../vocabulary/stance.md)
+- [withstand](../vocabulary/withstand.md)
+- [comply](../vocabulary/comply.md)
+### 2024/09/06
+
+- [rinse](../vocabulary/rinse.md)
+- [hydrate](../vocabulary/hydrate.md)
+- [damp](../vocabulary/damp.md)
+- [pore](../vocabulary/pore.md)
+- [milia](../vocabulary/milia.md)
+- [dimple](../vocabulary/dimple.md)
+- [exfoliate](../vocabulary/exfoliate.md)
+- [dime](../vocabulary/dime.md)
