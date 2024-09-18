@@ -134,3 +134,6 @@
 - [sallow](../vocabulary/sallow.md)
 - [complexion](../vocabulary/complexion.md)
 - [havoc](../vocabulary/havoc.md)
+### 2024/09/14
+
+- [inadvertently](../vocabulary/inadvertently.md)

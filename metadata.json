@@ -1731,5 +1731,38 @@
     "related_words": ["cause", "inflict", "bring about"],
     "date_added": "2024/09/03",
     "further_explanation": "Most commonly used in the phrase 'wreak havoc,' but can be used with other nouns like 'vengeance' or 'damage.' It implies a powerful and often destructive action, emphasizing the severe impact of the subject on its object."
+},
+{
+"word": "inadvertently",
+"pronunciation": "/ˌɪnədˈvɜːtəntli/",
+"translation": "无意地，不经意地",
+"part_of_speech": ["Adverb"],
+"definition": {
+"Adverb": "1. Without intention; accidentally. 2. In a manner characterized by lack of attention or care."
+},
+"examples": [
+"He inadvertently offended his colleague with his poorly worded email.",
+"The classified information was inadvertently leaked to the press."
+],
+"related_words": ["accidentally", "unintentionally", "unwittingly", "mistakenly"],
+"date_added": "2024/09/14",
+"further_explanation": "The term 'inadvertently' is derived from the adjective 'inadvertent', which is the opposite of 'advertent'. It's commonly used to describe actions or consequences that occur without the person's conscious intention or awareness. This word is often used in formal contexts, such as in business communications or legal documents, to emphasize that an action was not deliberate. It can be particularly important in situations where intent matters, such as in legal cases or when discussing mistakes in professional settings."
+},
+    {
+"word": "equilibrium",
+"pronunciation": "/ˌiːkwɪˈlɪbriəm/",
+"translation": "平衡，均衡",
+"part_of_speech": ["Noun"],
+"definition": {
+"Noun": "1. A state of balance between opposing forces or influences. 2. A state of physical balance. 3. A state of mental or emotional stability or composure."
+},
+"examples": [
+"The ecosystem maintains a delicate equilibrium between predators and prey.",
+"After the economic shock, the market took months to return to equilibrium.",
+"The gymnast maintained perfect equilibrium on the balance beam."
+],
+"related_words": ["balance", "stability", "poise", "homeostasis"],
+"date_added": "2024/09/14",
+"further_explanation": "The concept of 'equilibrium' is crucial in many fields, including physics, chemistry, economics, and psychology. In physics, it refers to a system where the net force acting on it is zero. In chemistry, it describes a reversible reaction in which the rates of the forward and reverse reactions are equal. Economists use the term to describe a state where economic forces are balanced. In psychology, it can refer to emotional stability or Piaget's theory of cognitive development. The word comes from Latin 'aequilibrium', meaning 'equal balance'."
 }
 ]
