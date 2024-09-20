@@ -1764,5 +1764,57 @@
 "related_words": ["balance", "stability", "poise", "homeostasis"],
 "date_added": "2024/09/14",
 "further_explanation": "The concept of 'equilibrium' is crucial in many fields, including physics, chemistry, economics, and psychology. In physics, it refers to a system where the net force acting on it is zero. In chemistry, it describes a reversible reaction in which the rates of the forward and reverse reactions are equal. Economists use the term to describe a state where economic forces are balanced. In psychology, it can refer to emotional stability or Piaget's theory of cognitive development. The word comes from Latin 'aequilibrium', meaning 'equal balance'."
+},
+    {
+    "word": "intact",
+    "pronunciation": "/ɪnˈtækt/",
+    "translation": "完整无缺的, 未受损的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. Not damaged or impaired; remaining whole and complete."
+    },
+    "examples": [
+        "Despite the storm, the building remained intact.",
+        "The ancient manuscript was discovered intact in the ruins."
+    ],
+    "related_words": ["unbroken", "whole", "undamaged"],
+    "date_added": "2024/09/15",
+    "further_explanation": "The adjective 'intact' describes something that has not been harmed or altered and remains in its original condition. It is often used for physical objects but can apply to abstract things like reputations or relationships."
+},
+    {
+    "word": "notorious",
+    "pronunciation": "/nəʊˈtɔːriəs/",
+    "translation": "臭名昭著的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. Famous or well-known, typically for some bad quality or deed."
+    },
+    "examples": [
+        "The city is notorious for its high crime rate.",
+        "He became notorious after the scandal was made public."
+    ],
+    "related_words": ["infamous", "disreputable", "scandalous"],
+    "date_added": "2024/09/15",
+    "further_explanation": "Notorious is often used to describe a negative reputation or fame, typically linked to criminal activities, scandals, or undesirable traits."
+},
+    {
+    "word": "rash",
+    "pronunciation": "/ræʃ/",
+    "translation": "轻率的; 皮疹",
+    "part_of_speech": ["Adjective", "Noun"],
+    "definition": {
+        "Adjective": "1. Acting or done without careful consideration of the possible consequences.",
+        "Noun": "2. A spotty area of irritated or inflamed skin."
+    },
+    "examples": [
+        "It was a rash decision to invest all the money in one company.",
+        "She developed a rash after using the new skincare product."
+    ],
+    "related_words": ["reckless", "impulsive", "eruption", "outbreak"],
+    "date_added": "2024/09/15",
+    "further_explanation": "As an adjective, rash refers to making hasty decisions without thinking through consequences. As a noun, it describes a skin condition."
 }
+
+
+
 ]

@@ -137,3 +137,9 @@
 ### 2024/09/14
 
 - [inadvertently](../vocabulary/inadvertently.md)
+- [equilibrium](../vocabulary/equilibrium.md)
+### 2024/09/15
+
+- [intact](../vocabulary/intact.md)
+- [notorious](../vocabulary/notorious.md)
+- [rash](../vocabulary/rash.md)
