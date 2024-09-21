@@ -112,6 +112,7 @@
 - [gimmick](../vocabulary/gimmick.md)
 - [eradicate](../vocabulary/eradicate.md)
 - [terrestrial](../vocabulary/terrestrial.md)
+- [wreak](../vocabulary/wreak.md)
 - [exert](../vocabulary/exert.md)
 ### 2024/09/04
 
@@ -149,7 +150,6 @@
 - [sallow](../vocabulary/sallow.md)
 - [complexion](../vocabulary/complexion.md)
 - [havoc](../vocabulary/havoc.md)
-- [wreak](../vocabulary/wreak.md)
 ### 2024/09/09
 
 - [blemish](../vocabulary/blemish.md)
@@ -182,3 +182,12 @@
 - [infantry](../vocabulary/infantry.md)
 - [lag](../vocabulary/lag.md)
 - [intact](../vocabulary/intact.md)
+### 2024/09/14
+
+- [inadvertently](../vocabulary/inadvertently.md)
+- [equilibrium](../vocabulary/equilibrium.md)
+### 2024/09/15
+
+- [intact](../vocabulary/intact.md)
+- [notorious](../vocabulary/notorious.md)
+- [rash](../vocabulary/rash.md)

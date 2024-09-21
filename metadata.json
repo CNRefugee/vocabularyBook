@@ -2390,24 +2390,71 @@
     "related_words": ["desperate", "final", "ultimate", "eleventh-hour", "do-or-die"],
     "date_added": "2024/09/10",
     "further_explanation": "The phrase 'last-ditch' originates from military terminology, where a 'last ditch' referred to the final line of defense. It has since evolved into a widely used idiomatic expression describing a final, often desperate attempt to solve a problem or achieve a goal. The term carries connotations of urgency, desperation, and being at the end of one's resources or options. It's commonly used in various contexts, including business (e.g., last-ditch negotiations), politics (last-ditch efforts to pass legislation), sports (a team's last-ditch attempt to win), and personal endeavors. The phrase often implies that the attempt being described is unlikely to succeed, but is being made anyway as there are no other options left. It's frequently paired with words like 'effort,' 'attempt,' or 'try.' In storytelling and media, a 'last-ditch effort' often creates tension and drama. While primarily used as an adjective, it can sometimes function as an adverb in phrases like 'fighting last-ditch.' The term's dramatic quality makes it a favorite in news headlines and narrative descriptions of critical situations."
+},
+{
+"word": "inadvertently",
+"pronunciation": "/ˌɪnədˈvɜːtəntli/",
+"translation": "无意地，不经意地",
+"part_of_speech": ["Adverb"],
+"definition": {
+"Adverb": "1. Without intention; accidentally. 2. In a manner characterized by lack of attention or care."
+},
+"examples": [
+"He inadvertently offended his colleague with his poorly worded email.",
+"The classified information was inadvertently leaked to the press."
+],
+"related_words": ["accidentally", "unintentionally", "unwittingly", "mistakenly"],
+"date_added": "2024/09/14",
+"further_explanation": "The term 'inadvertently' is derived from the adjective 'inadvertent', which is the opposite of 'advertent'. It's commonly used to describe actions or consequences that occur without the person's conscious intention or awareness. This word is often used in formal contexts, such as in business communications or legal documents, to emphasize that an action was not deliberate. It can be particularly important in situations where intent matters, such as in legal cases or when discussing mistakes in professional settings."
+},
+    {
+"word": "equilibrium",
+"pronunciation": "/ˌiːkwɪˈlɪbriəm/",
+"translation": "平衡，均衡",
+"part_of_speech": ["Noun"],
+"definition": {
+"Noun": "1. A state of balance between opposing forces or influences. 2. A state of physical balance. 3. A state of mental or emotional stability or composure."
+},
+"examples": [
+"The ecosystem maintains a delicate equilibrium between predators and prey.",
+"After the economic shock, the market took months to return to equilibrium.",
+"The gymnast maintained perfect equilibrium on the balance beam."
+],
+"related_words": ["balance", "stability", "poise", "homeostasis"],
+"date_added": "2024/09/14",
+"further_explanation": "The concept of 'equilibrium' is crucial in many fields, including physics, chemistry, economics, and psychology. In physics, it refers to a system where the net force acting on it is zero. In chemistry, it describes a reversible reaction in which the rates of the forward and reverse reactions are equal. Economists use the term to describe a state where economic forces are balanced. In psychology, it can refer to emotional stability or Piaget's theory of cognitive development. The word comes from Latin 'aequilibrium', meaning 'equal balance'."
+},
+    {
+    "word": "notorious",
+    "pronunciation": "/nəʊˈtɔːriəs/",
+    "translation": "臭名昭著的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. Famous or well-known, typically for some bad quality or deed."
+    },
+    "examples": [
+        "The city is notorious for its high crime rate.",
+        "He became notorious after the scandal was made public."
+    ],
+    "related_words": ["infamous", "disreputable", "scandalous"],
+    "date_added": "2024/09/15",
+    "further_explanation": "Notorious is often used to describe a negative reputation or fame, typically linked to criminal activities, scandals, or undesirable traits."
+},
+    {
+    "word": "rash",
+    "pronunciation": "/ræʃ/",
+    "translation": "轻率的; 皮疹",
+    "part_of_speech": ["Adjective", "Noun"],
+    "definition": {
+        "Adjective": "1. Acting or done without careful consideration of the possible consequences.",
+        "Noun": "2. A spotty area of irritated or inflamed skin."
+    },
+    "examples": [
+        "It was a rash decision to invest all the money in one company.",
+        "She developed a rash after using the new skincare product."
+    ],
+    "related_words": ["reckless", "impulsive", "eruption", "outbreak"],
+    "date_added": "2024/09/15",
+    "further_explanation": "As an adjective, rash refers to making hasty decisions without thinking through consequences. As a noun, it describes a skin condition."
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
