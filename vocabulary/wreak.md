@@ -15,7 +15,7 @@
 - [inflict](inflict.md)
 - [bring about](bring about.md)
 ### Date Added
-2024-09-03 00:00:00
+2024-09-06 00:00:00
 
 ### Further Explanation
 Most commonly used in the phrase 'wreak havoc,' but can be used with other nouns like 'vengeance' or 'damage.' It implies a powerful and often destructive action, emphasizing the severe impact of the subject on its object.

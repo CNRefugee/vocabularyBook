@@ -74,6 +74,7 @@
 - [proactive](../vocabulary/proactive.md)
 - [indifferent](../vocabulary/indifferent.md)
 - [dabble](../vocabulary/dabble.md)
+- [envision](../vocabulary/envision.md)
 ### 2024/08/27
 
 - [disheartening](../vocabulary/disheartening.md)
@@ -87,6 +88,12 @@
 - [squander](../vocabulary/squander.md)
 - [frivolous](../vocabulary/frivolous.md)
 - [recoup](../vocabulary/recoup.md)
+### 2024/08/29
+
+- [venue](../vocabulary/venue.md)
+- [eviction](../vocabulary/eviction.md)
+- [fallacy](../vocabulary/fallacy.md)
+- [tangible](../vocabulary/tangible.md)
 ### 2024/08/30
 
 - [exhale](../vocabulary/exhale.md)
@@ -105,10 +112,16 @@
 - [gimmick](../vocabulary/gimmick.md)
 - [eradicate](../vocabulary/eradicate.md)
 - [terrestrial](../vocabulary/terrestrial.md)
-- [wreak](../vocabulary/wreak.md)
+- [exert](../vocabulary/exert.md)
 ### 2024/09/04
 
 - [ditch](../vocabulary/ditch.md)
+- [vineyard](../vocabulary/vineyard.md)
+- [orchard](../vocabulary/orchard.md)
+- [diapause](../vocabulary/diapause.md)
+- [hibernate](../vocabulary/hibernate.md)
+- [aroma](../vocabulary/aroma.md)
+- [hatch](../vocabulary/hatch.md)
 ### 2024/09/05
 
 - [solace](../vocabulary/solace.md)
@@ -121,6 +134,8 @@
 - [stance](../vocabulary/stance.md)
 - [withstand](../vocabulary/withstand.md)
 - [comply](../vocabulary/comply.md)
+- [ripen](../vocabulary/ripen.md)
+- [ripen](../vocabulary/ripen.md)
 ### 2024/09/06
 
 - [rinse](../vocabulary/rinse.md)
@@ -134,3 +149,36 @@
 - [sallow](../vocabulary/sallow.md)
 - [complexion](../vocabulary/complexion.md)
 - [havoc](../vocabulary/havoc.md)
+- [wreak](../vocabulary/wreak.md)
+### 2024/09/09
+
+- [blemish](../vocabulary/blemish.md)
+### 2024/09/10
+
+- [depletes](../vocabulary/depletes.md)
+- [reconcile](../vocabulary/reconcile.md)
+- [counsel](../vocabulary/counsel.md)
+- [restore](../vocabulary/restore.md)
+- [persecute](../vocabulary/persecute.md)
+- [connotation](../vocabulary/connotation.md)
+- [mistreatment](../vocabulary/mistreatment.md)
+- [hinge](../vocabulary/hinge.md)
+- [mediate](../vocabulary/mediate.md)
+- [last-ditch](../vocabulary/last-ditch.md)
+### 2024/09/11
+
+- [thrust](../vocabulary/thrust.md)
+- [this point onwards](../vocabulary/this point onwards.md)
+- [flounder](../vocabulary/flounder.md)
+- [morale](../vocabulary/morale.md)
+- [shackle](../vocabulary/shackle.md)
+- [onslaught](../vocabulary/onslaught.md)
+- [stiffen](../vocabulary/stiffen.md)
+- [sound out](../vocabulary/sound out.md)
+- [evacuate](../vocabulary/evacuate.md)
+- [oversee](../vocabulary/oversee.md)
+- [annihilate](../vocabulary/annihilate.md)
+- [scramble](../vocabulary/scramble.md)
+- [infantry](../vocabulary/infantry.md)
+- [lag](../vocabulary/lag.md)
+- [intact](../vocabulary/intact.md)

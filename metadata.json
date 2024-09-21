@@ -1729,7 +1729,685 @@
         "Her actions wreaked terrible consequences on the entire family."
     ],
     "related_words": ["cause", "inflict", "bring about"],
-    "date_added": "2024/09/03",
+    "date_added": "2024/09/06",
     "further_explanation": "Most commonly used in the phrase 'wreak havoc,' but can be used with other nouns like 'vengeance' or 'damage.' It implies a powerful and often destructive action, emphasizing the severe impact of the subject on its object."
+},
+    {
+    "word": "venue",
+    "pronunciation": "/ˈvenjuː/",
+    "translation": "场地，地点",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. The place where an event or meeting is happening. 2. (Law) The place where a case is heard in court."
+    },
+    "examples": [
+        "They chose a beautiful outdoor venue for their wedding ceremony.",
+        "The concert venue can accommodate up to 10,000 people."
+    ],
+    "related_words": ["location", "site", "place"],
+    "date_added": "2024/8/29",
+    "further_explanation": "'Venue' is used in various contexts:\n1. Events: Commonly refers to places where performances, sports events, or gatherings occur.\n2. Legal: In law, it refers to the location where a case is heard.\n3. Business: Often used for conference or meeting locations.\n4. Sports: Describes stadiums or arenas where games are played.\n5. Music: Refers to places where concerts or gigs are held.\nThe term implies a designated space for a specific purpose or event, often with considerations for capacity, facilities, and suitability for the intended use."
+},
+    {
+    "word": "eviction",
+    "pronunciation": "/ɪˈvɪkʃən/",
+    "translation": "驱逐，赶出",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "The action of expelling someone, especially a tenant, from a property; the process of legally removing a tenant from a leased property."
+    },
+    "examples": [
+        "The landlord served an eviction notice to the tenants who hadn't paid rent in three months.",
+        "Many families faced eviction during the economic crisis."
+    ],
+    "related_words": ["expulsion", "ejection", "ouster"],
+    "date_added": "2024/8/29",
+    "further_explanation": "Eviction is a legal process typically used in housing contexts. It involves:\n1. Landlord-tenant disputes: Often due to non-payment of rent or violation of lease terms.\n2. Legal procedure: Requires proper notice and often court involvement.\n3. Social issue: Can be controversial, especially during economic hardships.\n4. Business context: Can refer to removing squatters from commercial properties.\n5. Metaphorical use: Sometimes used figuratively to describe forced removal from non-housing situations.\nEviction can have significant social and economic impacts on individuals and communities."
+},
+    {
+    "word": "fallacy",
+    "pronunciation": "/ˈfæləsi/",
+    "translation": "谬论，谬误",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "A mistaken belief, especially one based on unsound arguments; a failure in reasoning which renders an argument invalid."
+    },
+    "examples": [
+        "The idea that wealth always brings happiness is a common fallacy.",
+        "His argument contained several logical fallacies that weakened his position."
+    ],
+    "related_words": ["misconception", "error", "sophism"],
+    "date_added": "2024/8/29",
+    "further_explanation": "The concept of 'fallacy' is crucial in critical thinking and logical reasoning:\n1. In logic: Refers to a flaw in reasoning that makes an argument invalid.\n2. In everyday use: Often describes widely held but false beliefs.\n3. In debates: Identifying fallacies is a key skill in constructing and critiquing arguments.\n4. Types of fallacies: Include ad hominem, straw man, false dichotomy, and many others.\n5. In science: Fallacies can lead to incorrect conclusions and flawed theories.\n6. In critical thinking: Understanding fallacies helps in developing stronger, more logical arguments.\nRecognizing fallacies is an important skill in various fields, including philosophy, law, politics, and science."
+},
+    {
+    "word": "tangible",
+    "pronunciation": "/ˈtændʒəbl/",
+    "translation": "有形的，可触摸的",
+    "part_of_speech": ["Adjective", "Noun"],
+    "definition": {
+        "Adjective": "1. Perceptible by touch; able to be touched or felt. 2. Clear and definite; real.",
+        "Noun": "A thing that is perceptible by touch."
+    },
+    "examples": [
+        "The company wanted to see tangible results from their investment.",
+        "Her fear was almost tangible in the room."
+    ],
+    "related_words": ["concrete", "palpable", "substantial"],
+    "date_added": "2024/8/29",
+    "further_explanation": "The word 'tangible' is used both literally and figuratively:\n1. In a physical sense: It refers to things that can be touched or felt.\n2. In business: Often used to describe measurable or quantifiable results.\n3. In law: Tangible assets are physical items of value.\n4. Figuratively: Used to describe things that are clear, definite, or real, even if not physical.\n5. In contrast to 'intangible': Often used to distinguish between physical and non-physical assets or concepts.\nThe term generally implies something concrete and real, as opposed to abstract or theoretical."
+},
+    {
+    "word": "envision",
+    "pronunciation": "/ɪnˈvɪʒən/",
+    "translation": "想象，设想",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To imagine or picture in one's mind, especially a future event or situation."
+    },
+    "examples": [
+        "The architect envisioned a city with green spaces on every block.",
+        "I can't envision a world without the internet."
+    ],
+    "related_words": ["visualize", "imagine", "foresee"],
+    "date_added": "2024/8/26",
+    "further_explanation": "'Envision' is often used in contexts involving future planning, creative thinking, or goal-setting. It implies a clear, detailed mental image or concept of something that doesn't yet exist or hasn't happened. The word is frequently used in:\n1. Business: When discussing future strategies or developments.\n2. Personal development: In setting and working towards personal goals.\n3. Art and design: When conceptualizing new projects.\n4. Politics and social change: When describing ideal future scenarios.\nEnvisioning is considered a powerful tool in various fields as it helps in setting clear objectives and working towards them."
+},
+    {     "word": "depletes",     "pronunciation": "/dɪˈpliːts/",     "translation": "耗尽，消耗",     "part_of_speech": ["Verb"],     "definition": {         "Verb": "To reduce in quantity, content, or value; to use up or consume."     },     "examples": [         "Overuse of fossil fuels depletes our natural resources.",         "Stress can deplete your body's vitamins and minerals."     ],     "related_words": ["exhaust", "consume", "diminish"],     "date_added": "2024/09/10",     "further_explanation": "Often used in environmental, economic, and health contexts. It implies a gradual reduction or exhaustion of a finite resource or supply, emphasizing the idea of something being used up faster than it can be replenished or replaced." },
+    {
+    "word": "reconcile",
+    "pronunciation": "/ˈrekənˌsaɪl/",
+    "translation": "调解，和解",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To restore friendly relations between; to cause to coexist in harmony; to make or show to be compatible."
+    },
+    "examples": [
+        "The couple sought counseling to reconcile their differences.",
+        "She struggled to reconcile her religious beliefs with scientific evidence."
+    ],
+    "related_words": ["harmonize", "resolve", "conciliate"],
+    "date_added": "2024/09/10",
+    "further_explanation": "Often used in contexts of conflict resolution, accounting, and personal relationships. It implies the process of finding a way to make different ideas, facts, or situations exist together without conflict, or to restore harmony between people after a disagreement."
+},
+    {
+    "word": "counsel",
+    "pronunciation": "/ˈkaʊn.səl/",
+    "translation": "建议，忠告；律师",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. Advice, especially that given formally. 2. A lawyer or group of lawyers giving legal advice and conducting cases in court.",
+        "Verb": "To give advice to someone, especially on how to solve a problem."
+    },
+    "examples": [
+        "She sought the counsel of her mentor before making a decision.",
+        "The defense counsel argued passionately for his client's innocence.",
+        "He counseled patience in dealing with the difficult situation."
+    ],
+    "related_words": ["advise", "consult", "advocate", "lawyer"],
+    "date_added": "2024/09/10",
+    "further_explanation": "The word 'counsel' has dual usage as both a noun and a verb. As a noun, it can refer to advice or to a legal professional. As a verb, it means to provide advice or guidance. It's commonly used in legal, professional, and personal contexts, often implying wisdom, experience, or expertise in the advice being given."
+},
+    {
+    "word": "restore",
+    "pronunciation": "/rɪˈstɔːr/",
+    "translation": "恢复，修复",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To bring back or re-establish (a previous right, practice, custom, or situation); to return (someone or something) to a former condition, place, or position. 2. To repair or renovate (a building, work of art, etc.) so as to return it to its original condition."
+    },
+    "examples": [
+        "The conservators worked tirelessly to restore the ancient painting.",
+        "The new government promised to restore democracy to the country.",
+        "After the power outage, technicians worked quickly to restore electricity to the affected areas."
+    ],
+    "related_words": ["reinstate", "revive", "rehabilitate", "renew"],
+    "date_added": "2024/09/10",
+    "further_explanation": "The word 'restore' implies bringing something back to its original or former state. It's commonly used in contexts of conservation, renovation, computing (data restoration), health (restoring health or balance), and political or social change (restoring order or rights). The concept often carries a positive connotation, suggesting improvement or a return to a preferred state."
+},
+    {
+    "word": "persecute",
+    "pronunciation": "/ˈpɜːsɪkjuːt/",
+    "translation": "迫害，折磨",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "To subject (someone) to hostility and ill-treatment, especially because of their race, political or religious beliefs, or sexual orientation."
+    },
+    "examples": [
+        "Throughout history, minority groups have often been persecuted by those in power.",
+        "The journalist was persecuted for exposing government corruption.",
+        "Many people fled the country to escape being persecuted for their religious beliefs."
+    ],
+    "related_words": ["oppress", "harass", "victimize", "discriminate"],
+    "date_added": "2024/09/10",
+    "further_explanation": "The term 'persecute' implies a systematic mistreatment of an individual or group by another group. It often involves the abuse of power and is frequently used in contexts of human rights, religious freedom, and political oppression. The word carries strong negative connotations and implies unjust, cruel, or persistent action against others. It's distinct from 'prosecute,' which refers to instituting legal proceedings against someone."
+},
+    {
+    "word": "connotation",
+    "pronunciation": "/ˌkɒnəˈteɪʃən/",
+    "translation": "含义，隐含意义",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "An idea or feeling that a word invokes in addition to its literal or primary meaning."
+    },
+    "examples": [
+        "The word 'home' has connotations of comfort and security.",
+        "In many cultures, the color white has connotations of purity and innocence.",
+        "The politician carefully chose words with positive connotations in his speech."
+    ],
+    "related_words": ["implication", "overtone", "undertone", "suggestion", "association"],
+    "date_added": "2024/09/10",
+    "further_explanation": "Connotation refers to the emotional or cultural associations that a word or phrase carries, beyond its literal definition. It's often contrasted with 'denotation,' which is the explicit or direct meaning of a word. Understanding connotations is crucial in effective communication, especially in writing, public speaking, and advertising, where the choice of words can significantly impact the message's reception. Connotations can vary across different cultures, contexts, and time periods."
+},
+    {
+    "word": "mistreatment",
+    "pronunciation": "/mɪsˈtriːtmənt/",
+    "translation": "虐待，不公平对待",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "The act of treating someone badly, cruelly, or unfairly."
+    },
+    "examples": [
+        "The investigation revealed widespread mistreatment of workers in the factory.",
+        "Animal rights activists protested against the mistreatment of circus animals.",
+        "The patient filed a complaint alleging mistreatment by hospital staff."
+    ],
+    "related_words": ["abuse", "maltreatment", "ill-treatment", "neglect", "cruelty"],
+    "date_added": "2024/09/10",
+    "further_explanation": "Mistreatment encompasses a range of negative behaviors toward individuals or groups, including physical, emotional, or psychological abuse. It often implies a violation of rights, dignity, or well-being. The term is used in various contexts, including human rights, workplace issues, healthcare, animal welfare, and domestic situations. Mistreatment can be a single severe incident or a pattern of less severe but harmful actions over time. Addressing and preventing mistreatment is a key concern in many fields, including law, social work, and organizational management."
+},
+    {
+    "word": "hinge",
+    "pronunciation": "/hɪndʒ/",
+    "translation": "铰链；枢纽",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A movable joint or mechanism on which a door, gate, or lid swings as it opens and closes. 2. A central or pivotal point or principle on which everything depends.",
+        "Verb": "1. To attach or be attached by or as if by a hinge. 2. To depend entirely on something."
+    },
+    "examples": [
+        "The old wooden door creaked on its rusty hinges.",
+        "The success of the project hinges on securing adequate funding.",
+        "She hinged the new cabinet doors carefully to ensure they aligned properly."
+    ],
+    "related_words": ["pivot", "fulcrum", "joint", "axis", "depend"],
+    "date_added": "2024/09/10",
+    "further_explanation": "The word 'hinge' has both literal and figurative meanings. In its literal sense, it refers to a mechanical device that allows for rotational movement, commonly found in doors, gates, and lids. Metaphorically, it's used to describe a crucial point or factor on which something important depends or turns. This dual usage makes 'hinge' a versatile word in both practical and abstract contexts. In engineering and design, hinges are crucial components in various mechanisms. In everyday language, the phrase 'to hinge on' is often used to emphasize the critical nature of a particular factor in determining an outcome."
+},
+    {
+    "word": "thrust",
+    "pronunciation": "/θrʌst/",
+    "translation": "推力；刺，戳；要点",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A sudden or forceful push. 2. The force that propels a jet or rocket engine. 3. The main point or gist of an argument or discussion.",
+        "Verb": "1. To push or drive with force. 2. To force one's way into or through something. 3. To impose or inflict on someone."
+    },
+    "examples": [
+        "The rocket's powerful thrust propelled it into space.",
+        "He thrust the sword into the dragon's heart.",
+        "The main thrust of her argument was that education should be free for all.",
+        "The company is thrusting itself into new markets."
+    ],
+    "related_words": ["push", "force", "propel", "drive", "impetus", "gist"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The word 'thrust' is versatile, used in physical, mechanical, and metaphorical contexts. In physics and engineering, it refers to a propulsive force, particularly in aviation and rocketry. In literature and rhetoric, it can describe forceful actions or the central idea of an argument. The verb form often implies sudden or forceful movement or action. In fencing and other martial arts, 'thrust' refers to a specific type of attack. The word's varied applications make it useful in technical discussions, creative writing, and everyday language, often conveying a sense of power, direction, or emphasis."
+},
+    {
+    "word": "this point onwards",
+    "pronunciation": "/ðɪs pɔɪnt ˈɒnwədz/",
+    "translation": "从这一点起，从此以后",
+    "part_of_speech": ["Adverbial Phrase"],
+    "definition": {
+        "Adverbial Phrase": "Starting from the current moment or situation and continuing into the future; from now on."
+    },
+    "examples": [
+        "From this point onwards, all meetings will be held virtually.",
+        "The company decided to change its policy from this point onwards.",
+        "He vowed to eat healthier from this point onwards."
+    ],
+    "related_words": ["henceforth", "from now on", "going forward", "hereinafter"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The phrase 'this point onwards' is commonly used to indicate a change or transition that begins at the present moment and continues into the future. It's often employed when announcing new policies, personal decisions, or shifts in behavior or processes. The phrase implies a clear demarcation between past practices and future intentions. It's frequently used in formal announcements, personal resolutions, and business communications to signify a change in direction or approach. The phrase can be modified to 'from this point onwards' or 'from this point forward' without significant change in meaning. In legal or very formal contexts, synonyms like 'henceforth' or 'hereinafter' might be preferred."
+},
+{
+    "word": "flounder",
+    "pronunciation": "/ˈflaʊndə(r)/",
+    "translation": "挣扎；蹒跚；比目鱼",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "1. To struggle to move or obtain footing; to stumble clumsily. 2. To have difficulty doing something; to proceed or act clumsily or ineffectively.",
+        "Noun": "A type of flatfish that lives on the seabed, typically having both eyes on one side of the head."
+    },
+    "examples": [
+        "The new employee floundered as he tried to understand the complex filing system.",
+        "The company floundered for years before finally going bankrupt.",
+        "We caught several flounders while fishing off the pier.",
+        "She floundered through the deep snow, struggling to make progress."
+    ],
+    "related_words": ["struggle", "falter", "fumble", "flatfish", "halibut"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The word 'flounder' has distinct meanings as a verb and a noun. As a verb, it metaphorically draws from the fish's awkward movement on land, describing clumsy or ineffective actions, often in situations where one is out of their depth literally or figuratively. It's commonly used to describe struggling businesses, confused individuals, or anyone having difficulty in a challenging situation. As a noun, it refers to a specific type of flatfish, known for its distinctive appearance with both eyes on one side of its head. The verb usage is more common in everyday language, often employed in business, educational, or personal contexts to describe struggles or ineffectiveness. The dual meaning of 'flounder' makes it a potential source of wordplay in creative writing."
+},
+    {
+    "word": "morale",
+    "pronunciation": "/məˈrɑːl/",
+    "translation": "士气，斗志",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "The confidence, enthusiasm, and discipline of a person or group at a particular time; a sense of common purpose with respect to a group."
+    },
+    "examples": [
+        "The team's morale was high after their recent string of victories.",
+        "Employee morale suffered due to the announcement of impending layoffs.",
+        "The general sought to boost the troops' morale before the battle.",
+        "Good leadership is crucial for maintaining high morale in any organization."
+    ],
+    "related_words": ["spirit", "confidence", "motivation", "enthusiasm", "esprit de corps"],
+    "date_added": "2024/09/11",
+    "further_explanation": "Morale is a critical concept in organizational psychology, military contexts, and team management. It refers to the mental and emotional state of an individual or group, particularly in relation to their confidence, optimism, and willingness to perform tasks or face challenges. High morale is often associated with increased productivity, better teamwork, and resilience in the face of adversity. Conversely, low morale can lead to decreased performance, higher turnover rates, and a negative work atmosphere. Factors that can affect morale include leadership quality, work environment, recognition and rewards, job security, and group dynamics. In military contexts, morale is considered crucial for combat effectiveness. The term is also used in sports to describe a team's collective spirit and determination. Managers and leaders often focus on strategies to boost and maintain morale as a key aspect of organizational success."
+},
+    {
+    "word": "shackle",
+    "pronunciation": "/ˈʃækəl/",
+    "translation": "束缚；手铐，脚镣",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A pair of fetters connected together by a chain, used to fasten a prisoner's wrists or ankles together. 2. A device used to secure or fasten, such as a bolt or padlock.",
+        "Verb": "1. To restrain with shackles. 2. To restrict or impede the freedom or progress of."
+    },
+    "examples": [
+        "The prisoner's ankles were bound with iron shackles.",
+        "Outdated regulations can shackle innovation and progress.",
+        "He felt shackled by his responsibilities and unable to pursue his dreams.",
+        "The ship's crew used a shackle to secure the anchor chain."
+    ],
+    "related_words": ["fetter", "chain", "manacle", "restrain", "constrain", "hinder"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The word 'shackle' has both literal and metaphorical meanings. In its literal sense, it refers to physical restraints, often used in law enforcement or historical contexts of imprisonment. These can be metal fasteners for the wrists or ankles, or nautical equipment for securing ropes or chains. Metaphorically, 'shackle' is widely used to describe anything that restricts freedom, progress, or movement, whether it's rules, obligations, or societal expectations. This figurative use often appears in discussions about personal freedom, social justice, or economic policy. The verb form 'to shackle' can describe the act of physically restraining someone, but more commonly it's used figuratively to mean imposing restrictions or limitations. In engineering and construction, shackles are important connecting devices, highlighting the word's diverse applications across different fields. The enduring use of 'shackle' in both concrete and abstract senses makes it a powerful word in literature, politics, and everyday language to convey ideas of constraint and limitation."
+},
+    {
+    "word": "onslaught",
+    "pronunciation": "/ˈɒnslɔːt/",
+    "translation": "猛攻；猛烈的打击",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A fierce or destructive attack. 2. A large quantity of people or things that appear or arrive suddenly."
+    },
+    "examples": [
+        "The army prepared for the enemy's onslaught at dawn.",
+        "The company's website crashed under the onslaught of Black Friday shoppers.",
+        "He faced an onslaught of criticism after his controversial statement.",
+        "The coastline suffered severe erosion from the onslaught of hurricanes."
+    ],
+    "related_words": ["attack", "assault", "barrage", "offensive", "deluge", "flood"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The word 'onslaught' carries a strong connotation of intensity and often implies a sense of being overwhelmed. Originally a military term describing a violent attack, its usage has broadened to include any situation where someone or something faces a sudden, intense, and often overwhelming force or challenge. In modern usage, 'onslaught' is frequently employed metaphorically to describe non-violent but intense experiences, such as information overload, severe weather, or a flood of emotions. It's particularly effective in conveying a sense of relentlessness or inevitability. The term is common in journalism to describe natural disasters, public reactions, or market forces. In business contexts, it might describe aggressive competition or rapid technological change. The word's forceful sound and meaning make it a powerful choice in rhetoric and creative writing, often used to create a sense of drama or urgency. While primarily used as a noun, it can sometimes be found in phrases like 'to launch an onslaught,' where it takes on a more active role."
+},
+    {
+    "word": "stiffen",
+    "pronunciation": "/ˈstɪfən/",
+    "translation": "变硬；变僵；变得更严厉",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To make or become stiff or rigid. 2. To make or become more severe, harsh, or difficult. 3. To strengthen one's resolve; to become more determined."
+    },
+    "examples": [
+        "The cold wind made his fingers stiffen.",
+        "Her expression stiffened when she heard the bad news.",
+        "The government stiffened the penalties for drunk driving.",
+        "He stiffened his resolve and prepared to face the challenge."
+    ],
+    "related_words": ["harden", "rigidify", "toughen", "intensify", "strengthen"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The verb 'stiffen' primarily describes a physical process of becoming more rigid or less flexible, but it has expanded to include several metaphorical uses. In its literal sense, it often refers to physical objects or body parts becoming less pliable due to factors like cold, age, or chemical processes. Metaphorically, it can describe emotional or mental states, typically indicating a hardening of attitude or increased determination. In social or political contexts, 'stiffening' can refer to making rules, laws, or punishments more severe. The word is also used in technical fields: in engineering, materials might be stiffened to increase their strength; in cooking, certain ingredients stiffen mixtures. The phrase 'to stiffen one's resolve' is a common idiom meaning to become more determined. In body language, a person 'stiffening' often indicates surprise, fear, or increased alertness. The versatility of 'stiffen' makes it useful in various contexts, from describing physical changes to conveying subtle shifts in emotion or policy."
+},
+    {
+    "word": "exert",
+    "pronunciation": "/ɪɡˈzɜːrt/",
+    "translation": "施加, 运用",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To apply or put forth (effort, influence, pressure, etc.). 2. To use (strength, ability, or power) in order to achieve something."
+    },
+    "examples": [
+        "She had to exert all her strength to lift the heavy box.",
+        "The leader exerted considerable influence over the decision-making process."
+    ],
+    "related_words": ["apply", "exercise", "wield"],
+    "date_added": "2024/09/03",
+    "further_explanation": "The verb 'exert' is commonly used when talking about applying effort, force, or influence to achieve a particular result. It often implies a significant or focused effort."
+},
+    {
+    "word": "vineyard",
+    "pronunciation": "/ˈvɪnjərd/",
+    "translation": "葡萄园",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A plantation of grapevines, typically for wine production."
+    },
+    "examples": [
+        "The vineyard produced an excellent vintage this year.",
+        "We took a tour of the vineyards in Napa Valley."
+    ],
+    "related_words": ["grapevine", "winery", "vine"],
+    "date_added": "2024/09/04",
+    "further_explanation": "Vineyards are usually associated with the production of wine and are located in regions with climates favorable to grape cultivation. The term can also refer to the business of producing wine."
+},
+    {
+    "word": "orchard",
+    "pronunciation": "/ˈɔːrtʃərd/",
+    "translation": "果园",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A piece of land planted with fruit trees."
+    },
+    "examples": [
+        "The apple orchard was in full bloom during the spring.",
+        "They own an orchard that produces peaches and cherries."
+    ],
+    "related_words": ["grove", "fruit farm", "plantation"],
+    "date_added": "2024/09/04",
+    "further_explanation": "Orchards are areas of land where fruit trees are grown for commercial purposes. Common fruits produced in orchards include apples, pears, peaches, and cherries."
+},
+    {
+    "word": "diapause",
+    "pronunciation": "/ˈdaɪəˌpɔːz/",
+    "translation": "滞育",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A period of suspended development in an insect, fish, or other animal, especially during unfavorable environmental conditions."
+    },
+    "examples": [
+        "Insects enter diapause to survive through winter when food is scarce.",
+        "The diapause phase can be triggered by changes in temperature or day length."
+    ],
+    "related_words": ["dormancy", "quiescence", "hibernation"],
+    "date_added": "2024/09/04",
+    "further_explanation": "Diapause is a survival strategy in animals where their development is temporarily halted until conditions become favorable again. It is most commonly observed in insects and is similar to hibernation."
+},
+    {
+    "word": "hibernate",
+    "pronunciation": "/ˈhaɪbərˌneɪt/",
+    "translation": "冬眠",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To spend the winter in a dormant state, typically in animals like bears and bats."
+    },
+    "examples": [
+        "Bears hibernate in caves during the cold winter months.",
+        "Some animals hibernate to conserve energy when food is scarce."
+    ],
+    "related_words": ["dormancy", "sleep", "overwinter"],
+    "date_added": "2024/09/04",
+    "further_explanation": "Hibernation is a state of inactivity and metabolic depression in animals during winter. It helps them survive periods of cold temperatures and food scarcity by significantly slowing down their bodily functions."
+},
+    {
+    "word": "aroma",
+    "pronunciation": "/əˈroʊmə/",
+    "translation": "香味, 芳香",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. A distinctive, typically pleasant smell."
+    },
+    "examples": [
+        "The aroma of freshly baked bread filled the kitchen.",
+        "The coffee shop was known for its rich aroma."
+    ],
+    "related_words": ["fragrance", "scent", "bouquet"],
+    "date_added": "2024/09/04",
+    "further_explanation": "Aroma generally refers to the pleasant and distinctive smell associated with food, beverages, or natural substances. It is often used to describe the scent of coffee, wine, flowers, and other fragrant items."
+},
+    {
+    "word": "hatch",
+    "pronunciation": "/hætʃ/",
+    "translation": "孵化, 出壳",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "1. To emerge from an egg, chrysalis, or pupa.",
+        "Noun": "2. An opening in a floor, ceiling, or roof, typically with a door or cover."
+    },
+    "examples": [
+        "The chicks began to hatch after three weeks of incubation.",
+        "He climbed through the hatch in the roof to access the attic."
+    ],
+    "related_words": ["emerge", "incubate", "open"],
+    "date_added": "2024/09/04",
+    "further_explanation": "As a verb, 'hatch' refers to the process of an animal emerging from an egg. As a noun, it can refer to an opening, usually in a structure, through which access is gained."
+},
+    {
+    "word": "ripen",
+    "pronunciation": "/ˈraɪpən/",
+    "translation": "成熟, 使成熟",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To become fully developed or mature, particularly in reference to fruit or crops."
+    },
+    "examples": [
+        "The tomatoes will ripen more quickly in the warm sunlight.",
+        "They waited for the grapes to ripen before harvesting."
+    ],
+    "related_words": ["mature", "develop", "age"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Ripen refers to the process by which fruits, vegetables, or other crops reach a stage where they are ready to be harvested or eaten, often characterized by a change in color, texture, and taste."
+},
+    {
+    "word": "ripen",
+    "pronunciation": "/ˈraɪpən/",
+    "translation": "成熟, 使成熟",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To become fully developed or mature, particularly in reference to fruit or crops."
+    },
+    "examples": [
+        "The tomatoes will ripen more quickly in the warm sunlight.",
+        "They waited for the grapes to ripen before harvesting."
+    ],
+    "related_words": ["mature", "develop", "age"],
+    "date_added": "2024/09/05",
+    "further_explanation": "Ripen refers to the process by which fruits, vegetables, or other crops reach a stage where they are ready to be harvested or eaten, often characterized by a change in color, texture, and taste."
+},
+    {
+    "word": "sound out",
+    "pronunciation": "/saʊnd aʊt/",
+    "translation": "试探, 探询",
+    "part_of_speech": ["Phrasal Verb"],
+    "definition": {
+        "Phrasal Verb": "1. To carefully question or seek information from someone in order to discover their views or opinions about something."
+    },
+    "examples": [
+        "She decided to sound out her colleagues before making any big decisions.",
+        "He sounded out the investors to gauge their interest in the new project."
+    ],
+    "related_words": ["probe", "inquire", "survey"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The phrase 'sound out' is commonly used to describe discreet or informal efforts to explore someone's opinion or intentions. It typically implies a cautious or indirect approach in seeking information, often done to avoid committing to a decision too soon. It is frequently used in business, politics, or personal situations where gauging reactions without fully revealing one's position is crucial."
+},
+    {
+    "word": "mediate",
+    "pronunciation": "/ˈmiːdieɪt/",
+    "translation": "调解, 斡旋",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To act as an intermediary in a conflict or dispute to bring about an agreement or reconciliation. 2. To intervene in a process or situation."
+    },
+    "examples": [
+        "The lawyer was asked to mediate between the two parties.",
+        "She successfully mediated the discussion, ensuring both sides were heard."
+    ],
+    "related_words": ["arbitrate", "negotiate", "intervene", "intercede"],
+    "date_added": "2024/09/10",
+    "further_explanation": "To 'mediate' means to step in as a neutral party to help resolve a dispute or disagreement. The role of a mediator is not to make decisions but to facilitate communication and find common ground between conflicting sides."
+},
+    {
+    "word": "evacuate",
+    "pronunciation": "/ɪˈvækjueɪt/",
+    "translation": "撤离, 疏散",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To remove people from a dangerous area or situation for safety. 2. To empty an area or building for safety reasons."
+    },
+    "examples": [
+        "The city was ordered to evacuate due to the approaching hurricane.",
+        "Firefighters helped to evacuate the building after the fire broke out."
+    ],
+    "related_words": ["withdraw", "clear out", "relocate", "vacate"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The term 'evacuate' is often used in emergency contexts, such as during natural disasters or dangerous situations, where people or animals need to be removed from a specific area for safety. It can also refer to emptying a space."
+},
+    {
+    "word": "oversee",
+    "pronunciation": "/ˌoʊvərˈsiː/",
+    "translation": "监督, 管理",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To supervise or manage an activity, project, or group of people to ensure that tasks are completed properly."
+    },
+    "examples": [
+        "The manager was hired to oversee the construction project.",
+        "She oversees the daily operations of the company."
+    ],
+    "related_words": ["supervise", "manage", "monitor", "control"],
+    "date_added": "2024/09/11",
+    "further_explanation": "To 'oversee' involves supervising or watching over tasks, ensuring they are done according to plan. It often applies to leadership roles in managing processes or teams."
+},
+    {
+    "word": "annihilate",
+    "pronunciation": "/əˈnaɪəˌleɪt/",
+    "translation": "彻底摧毁, 歼灭",
+    "part_of_speech": ["Verb"],
+    "definition": {
+        "Verb": "1. To destroy completely or wipe out. 2. To defeat overwhelmingly in a competition or conflict."
+    },
+    "examples": [
+        "The explosion annihilated the entire city.",
+        "Their team was annihilated in the championship game."
+    ],
+    "related_words": ["destroy", "obliterate", "exterminate", "eradicate"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The term 'annihilate' suggests total destruction or eradication, often in a violent or overwhelming manner. It can be used in both literal and metaphorical contexts."
+},
+    {
+    "word": "scramble",
+    "pronunciation": "/ˈskræmbl/",
+    "translation": "争抢, 攀爬, 仓促行动",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "1. To move or climb quickly using hands and feet. 2. To mix or jumble things together in a hurried or disorganized way. 3. To make something (like signals) unclear to prevent unauthorized understanding.",
+        "Noun": "1. A hurried or disorganized struggle or action."
+    },
+    "examples": [
+        "She scrambled over the rocks.",
+        "He scrambled to get ready for the meeting.",
+        "The eggs were scrambled with vegetables."
+    ],
+    "related_words": ["clamber", "rush", "mix", "jumble"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The verb 'scramble' is often used in both physical and figurative senses, indicating quick, often disorganized movement or action. It can also refer to mixing or jamming things together hastily, or in technology, scrambling signals to secure data."
+},
+    {
+    "word": "infantry",
+    "pronunciation": "/ˈɪnfəntri/",
+    "translation": "步兵",
+    "part_of_speech": ["Noun"],
+    "definition": {
+        "Noun": "1. Soldiers who fight on foot, typically the main land-based component of an army."
+    },
+    "examples": [
+        "The infantry advanced steadily across the battlefield.",
+        "He served in the infantry during the war."
+    ],
+    "related_words": ["foot soldiers", "troops", "ground forces"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The word 'infantry' refers to a branch of an army primarily composed of soldiers trained to fight on foot. Unlike other units like cavalry or artillery, infantry focuses on ground combat and close engagement with the enemy."
+},
+    {
+    "word": "lag",
+    "pronunciation": "/læɡ/",
+    "translation": "延迟，滞后",
+    "part_of_speech": ["Verb", "Noun"],
+    "definition": {
+        "Verb": "1. To fall behind or move or respond more slowly than expected.",
+        "Noun": "1. A delay or period of time between one event or process and another."
+    },
+    "examples": [
+        "The project is lagging behind schedule.",
+        "There is a lag between cause and effect in economic policies."
+    ],
+    "related_words": ["delay", "slowdown", "decelerate"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The term 'lag' can describe both physical delays (such as a person moving slowly) and technical delays (as seen in digital processing or networks)."
+},
+    {
+    "word": "intact",
+    "pronunciation": "/ɪnˈtækt/",
+    "translation": "完整无缺的, 未受损的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "1. Not damaged or impaired; remaining whole and complete."
+    },
+    "examples": [
+        "Despite the storm, the building remained intact.",
+        "The ancient manuscript was discovered intact in the ruins."
+    ],
+    "related_words": ["unbroken", "whole", "undamaged"],
+    "date_added": "2024/09/11",
+    "further_explanation": "The adjective 'intact' describes something that has not been harmed or altered and remains in its original condition. It is often used for physical objects but can apply to abstract things like reputations or relationships."
+},
+    {
+    "word": "blemish",
+    "pronunciation": "/ˈblemɪʃ/",
+    "translation": "瑕疵；污点；缺点",
+    "part_of_speech": ["Noun", "Verb"],
+    "definition": {
+        "Noun": "1. A small mark or flaw that spoils the appearance of something. 2. A moral defect or fault.",
+        "Verb": "To spoil or damage the appearance or quality of something."
+    },
+    "examples": [
+        "The antique vase would be perfect if not for the small blemish on its surface.",
+        "His otherwise spotless career was marred by a single blemish.",
+        "The harsh detergent blemished the delicate fabric.",
+        "She tried to cover the blemish on her cheek with makeup."
+    ],
+    "related_words": ["flaw", "imperfection", "defect", "stain", "mar", "spot"],
+    "date_added": "2024/09/09",
+    "further_explanation": "The word 'blemish' is versatile, applying to both physical and abstract concepts. In its physical sense, it often refers to a visible mark or imperfection that detracts from the appearance of something, commonly used in contexts of skin care, product quality, or aesthetics. Metaphorically, it extends to moral or reputational imperfections, describing a flaw in character, behavior, or record. In professional settings, a 'blemish on one's record' suggests a minor but noteworthy negative incident in an otherwise positive history. The term is prevalent in industries where appearance is crucial, such as cosmetics, manufacturing, and agriculture (for produce quality). In art and antiques, blemishes can significantly affect value. The verb form 'to blemish' implies causing damage, often unintentionally, to something's appearance or reputation. The concept of 'blemish-free' is often used as a standard of perfection in various fields. The word's use can range from everyday contexts (like skin blemishes) to more formal or literary applications describing flaws in abstract concepts like honor or perfection."
+},
+    {
+    "word": "last-ditch",
+    "pronunciation": "/ˌlɑːst ˈdɪtʃ/",
+    "translation": "最后的；孤注一掷的",
+    "part_of_speech": ["Adjective"],
+    "definition": {
+        "Adjective": "Made as a final attempt to achieve something after other attempts have failed; desperate and undertaken only as a last resort."
+    },
+    "examples": [
+        "The company made a last-ditch effort to avoid bankruptcy by seeking new investors.",
+        "In a last-ditch attempt to pass the exam, he stayed up all night studying.",
+        "The defense lawyer presented a last-ditch argument to sway the jury.",
+        "Scientists are making last-ditch attempts to save the endangered species from extinction."
+    ],
+    "related_words": ["desperate", "final", "ultimate", "eleventh-hour", "do-or-die"],
+    "date_added": "2024/09/10",
+    "further_explanation": "The phrase 'last-ditch' originates from military terminology, where a 'last ditch' referred to the final line of defense. It has since evolved into a widely used idiomatic expression describing a final, often desperate attempt to solve a problem or achieve a goal. The term carries connotations of urgency, desperation, and being at the end of one's resources or options. It's commonly used in various contexts, including business (e.g., last-ditch negotiations), politics (last-ditch efforts to pass legislation), sports (a team's last-ditch attempt to win), and personal endeavors. The phrase often implies that the attempt being described is unlikely to succeed, but is being made anyway as there are no other options left. It's frequently paired with words like 'effort,' 'attempt,' or 'try.' In storytelling and media, a 'last-ditch effort' often creates tension and drama. While primarily used as an adjective, it can sometimes function as an adverb in phrases like 'fighting last-ditch.' The term's dramatic quality makes it a favorite in news headlines and narrative descriptions of critical situations."
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
