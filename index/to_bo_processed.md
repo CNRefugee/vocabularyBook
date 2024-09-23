@@ -28,3 +28,11 @@ overdraft
 deprecate
 suffocate
 poke
+inflammation
+scalp
+clog
+greasy 
+lotion
+gunk 
+noncomedogenic
+lather 
