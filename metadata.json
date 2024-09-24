@@ -2456,5 +2456,551 @@
     "related_words": ["reckless", "impulsive", "eruption", "outbreak"],
     "date_added": "2024/09/15",
     "further_explanation": "As an adjective, rash refers to making hasty decisions without thinking through consequences. As a noun, it describes a skin condition."
-}
+},
+    {
+        "word": "elate",
+        "pronunciation": "/ɪˈleɪt/",
+        "translation": "使兴高采烈",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To make someone ecstatically happy or filled with joy."
+        },
+        "examples": [
+            "Winning the award elated her beyond words.",
+            "He was elated after hearing the good news."
+        ],
+        "related_words": ["overjoy", "thrill", "delight"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "convoy",
+        "pronunciation": "/ˈkɒnvɔɪ/",
+        "translation": "护送；护航队",
+        "part_of_speech": ["Noun", "Verb"],
+        "definition": {
+            "Noun": "1. A group of vehicles or ships traveling together, typically accompanied by armed troops for protection.",
+            "Verb": "1. To accompany or escort, typically for protection."
+        },
+        "examples": [
+            "A military convoy passed through the town.",
+            "The ships were convoyed across the ocean."
+        ],
+        "related_words": ["escort", "accompany", "guard"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "immense",
+        "pronunciation": "/ɪˈmɛns/",
+        "translation": "巨大的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Extremely large or great in size or degree."
+        },
+        "examples": [
+            "The building was of immense proportions.",
+            "She felt immense relief after finishing the exam."
+        ],
+        "related_words": ["enormous", "massive", "gigantic"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "divert",
+        "pronunciation": "/daɪˈvɜːt/",
+        "translation": "转移；使分心",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To cause something or someone to change direction or focus."
+        },
+        "examples": [
+            "The police diverted traffic to avoid the accident site.",
+            "She tried to divert attention from her mistake."
+        ],
+        "related_words": ["redirect", "distract", "deflect"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "congregate",
+        "pronunciation": "/ˈkɒŋɡrɪɡeɪt/",
+        "translation": "聚集",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To gather into a crowd or group."
+        },
+        "examples": [
+            "People began to congregate in the town square.",
+            "Students congregated outside the auditorium."
+        ],
+        "related_words": ["gather", "assemble", "collect"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "imperative",
+        "pronunciation": "/ɪmˈpɛrətɪv/",
+        "translation": "必要的；紧急的",
+        "part_of_speech": ["Adjective", "Noun"],
+        "definition": {
+            "Adjective": "1. Of vital importance; crucial.",
+            "Noun": "1. A command or order."
+        },
+        "examples": [
+            "It is imperative that we address this issue immediately.",
+            "The doctor gave an imperative to rest."
+        ],
+        "related_words": ["urgent", "necessary", "mandatory"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "peril",
+        "pronunciation": "/ˈpɛrəl/",
+        "translation": "危险",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. Serious and immediate danger."
+        },
+        "examples": [
+            "The hikers were in great peril as the storm approached.",
+            "They underestimated the peril of crossing the river."
+        ],
+        "related_words": ["danger", "risk", "hazard"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "entrenched",
+        "pronunciation": "/ɪnˈtrɛnʧt/",
+        "translation": "根深蒂固的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Firmly established and difficult to change."
+        },
+        "examples": [
+            "The company has an entrenched culture of innovation.",
+            "His views on politics are deeply entrenched."
+        ],
+        "related_words": ["ingrained", "fixed", "deep-rooted"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "supply glut",
+        "pronunciation": "/səˈplaɪ ɡlʌt/",
+        "translation": "供应过剩",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. An excessive supply of a product, leading to lower prices and reduced profitability."
+        },
+        "examples": [
+            "The oil industry is facing a supply glut.",
+            "A supply glut of smartphones has driven prices down."
+        ],
+        "related_words": ["oversupply", "surplus", "excess"],
+        "date_added": "2024/09/16"
+    },
+    {
+        "word": "hardship",
+        "pronunciation": "/ˈhɑːdʃɪp/",
+        "translation": "困苦；艰难",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. Severe suffering or deprivation."
+        },
+        "examples": [
+            "The war caused unimaginable hardship for civilians.",
+            "They endured many hardships during the economic downturn."
+        ],
+        "related_words": ["adversity", "difficulty", "struggle"],
+        "date_added": "2024/09/16"
+    },
+{
+        "word": "stagnation",
+        "pronunciation": "/stæɡˈneɪʃən/",
+        "translation": "停滞",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. The state of not moving or flowing, leading to lack of development or progress."
+        },
+        "examples": [
+            "Economic stagnation is a concern for policymakers.",
+            "There was a period of cultural stagnation in the country."
+        ],
+        "related_words": ["standstill", "inactivity", "decline"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "stifle",
+        "pronunciation": "/ˈstaɪfl/",
+        "translation": "抑制；压制",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To suppress or hold back; to prevent from developing freely."
+        },
+        "examples": [
+            "Her creativity was stifled by strict rules.",
+            "The company stifled competition by acquiring smaller businesses."
+        ],
+        "related_words": ["suppress", "restrain", "inhibit"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "grinding",
+        "pronunciation": "/ˈɡraɪndɪŋ/",
+        "translation": "磨人的；压迫的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Something that is harsh, oppressive, and relentless."
+        },
+        "examples": [
+            "They lived in grinding poverty.",
+            "The project involved grinding work that seemed never-ending."
+        ],
+        "related_words": ["crushing", "grueling", "exhausting"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "accommodative",
+        "pronunciation": "/əˈkɒmədəˌtɪv/",
+        "translation": "适应性的；通融的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Willing to adjust to others' needs; flexible in approach."
+        },
+        "examples": [
+            "The central bank's accommodative policy supported economic growth.",
+            "She was very accommodative to the needs of her team."
+        ],
+        "related_words": ["flexible", "adaptive", "obliging"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "subdued",
+        "pronunciation": "/səbˈdjuːd/",
+        "translation": "压抑的；抑制的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Quiet, reflective, or restrained."
+        },
+        "examples": [
+            "The atmosphere was subdued after the announcement.",
+            "She spoke in a subdued tone during the meeting."
+        ],
+        "related_words": ["muted", "restrained", "quiet"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "in a sign",
+        "pronunciation": "/ɪn ə saɪn/",
+        "translation": "预示着；表明",
+        "part_of_speech": ["Phrase"],
+        "definition": {
+            "Phrase": "1. Indicating a particular development or change."
+        },
+        "examples": [
+            "In a sign of recovery, the economy grew by 2%.",
+            "In a sign of trust, he gave her access to his personal files."
+        ],
+        "related_words": ["indication", "signal", "suggestion"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "plummeting",
+        "pronunciation": "/ˈplʌmɪtɪŋ/",
+        "translation": "骤降的",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. Falling or dropping sharply."
+        },
+        "examples": [
+            "The stock market is plummeting after the announcement.",
+            "Temperatures are plummeting as winter approaches."
+        ],
+        "related_words": ["falling", "tumbling", "dropping"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "slashed",
+        "pronunciation": "/slæʃt/",
+        "translation": "削减的；大幅减少的",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To reduce something dramatically or severely."
+        },
+        "examples": [
+            "The company slashed its prices to boost sales.",
+            "Funding for the project was slashed by 50%."
+        ],
+        "related_words": ["cut", "reduce", "trim"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "reminiscent",
+        "pronunciation": "/ˌrɛmɪˈnɪsnt/",
+        "translation": "使人想起的；怀旧的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Tending to remind one of something or evoking memories of the past."
+        },
+        "examples": [
+            "The music was reminiscent of the 1980s.",
+            "Her style is reminiscent of classic Hollywood actresses."
+        ],
+        "related_words": ["evocative", "suggestive", "nostalgic"],
+        "date_added": "2024/09/17"
+    },
+    {
+        "word": "brat",
+        "pronunciation": "/bræt/",
+        "translation": "小孩子；调皮的孩子",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. A child, often used in a derogatory way to refer to a spoiled or rude child."
+        },
+        "examples": [
+            "He's such a brat; he always wants his way.",
+            "The brat threw a tantrum when he didn't get the toy."
+        ],
+        "related_words": ["kid", "child", "tyke"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "intrigue",
+        "pronunciation": "/ɪnˈtriːɡ/",
+        "translation": "引起兴趣；阴谋",
+        "part_of_speech": ["Verb", "Noun"],
+        "definition": {
+            "Verb": "1. To arouse curiosity or interest; to fascinate.",
+            "Noun": "1. A secret plan or scheme; the act of plotting."
+        },
+        "examples": [
+            "The story intrigued her from the beginning.",
+            "The novel was filled with political intrigue."
+        ],
+        "related_words": ["fascinate", "interest", "conspiracy"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "armistice",
+        "pronunciation": "/ˈɑːrmɪstɪs/",
+        "translation": "停战协议",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. An agreement between warring parties to stop fighting temporarily."
+        },
+        "examples": [
+            "The armistice was signed after months of negotiation.",
+            "Both sides agreed to an armistice to allow for peace talks."
+        ],
+        "related_words": ["truce", "ceasefire", "peace treaty"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "replicable",
+        "pronunciation": "/rɪˈplɪkəbl/",
+        "translation": "可复制的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Able to be copied or reproduced."
+        },
+        "examples": [
+            "The experiment yielded replicable results across different labs.",
+            "They designed a replicable process for others to follow."
+        ],
+        "related_words": ["duplicable", "repeatable", "imitable"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "interim",
+        "pronunciation": "/ˈɪntərɪm/",
+        "translation": "临时的；过渡的",
+        "part_of_speech": ["Adjective", "Noun"],
+        "definition": {
+            "Adjective": "1. Temporary or provisional; for the time being.",
+            "Noun": "1. An intervening time or period."
+        },
+        "examples": [
+            "He took on the role of interim manager until a permanent one was found.",
+            "In the interim, we will continue with our current strategy."
+        ],
+        "related_words": ["temporary", "provisional", "transitional"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "overdraft",
+        "pronunciation": "/ˈoʊvərdræft/",
+        "translation": "透支",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. An arrangement with a bank that allows an account holder to withdraw more money than they have in their account."
+        },
+        "examples": [
+            "He was charged a fee for exceeding his overdraft limit.",
+            "Using an overdraft can help in emergencies, but it can lead to debt."
+        ],
+        "related_words": ["deficit", "overdraw", "debt"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "deprecate",
+        "pronunciation": "/ˈdɛprɪkeɪt/",
+        "translation": "贬低；反对",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To express disapproval of something; to belittle or disparage."
+        },
+        "examples": [
+            "She deprecated his casual attitude toward the project.",
+            "Many experts deprecated the use of outdated methods."
+        ],
+        "related_words": ["disparage", "belittle", "criticize"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "suffocate",
+        "pronunciation": "/ˈsʌfəkeɪt/",
+        "translation": "窒息；使窒息",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To deprive of air or oxygen; to choke."
+        },
+        "examples": [
+            "The smoke began to suffocate everyone in the room.",
+            "He felt suffocated by the intense pressure of expectations."
+        ],
+        "related_words": ["asphyxiate", "choke", "smother"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "poke",
+        "pronunciation": "/poʊk/",
+        "translation": "戳；刺",
+        "part_of_speech": ["Verb"],
+        "definition": {
+            "Verb": "1. To jab or prod someone or something with a finger or object."
+        },
+        "examples": [
+            "He poked her in the ribs to get her attention.",
+            "The cat poked its head out from behind the curtain."
+        ],
+        "related_words": ["jab", "prod", "nudge"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "inflammation",
+        "pronunciation": "/ˌɪnfləˈmeɪʃən/",
+        "translation": "炎症",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. A localized physical condition characterized by redness, swelling, heat, and pain, often as a response to injury or infection."
+        },
+        "examples": [
+            "The doctor diagnosed her with inflammation in her knee.",
+            "Inflammation can occur as a response to allergens or irritants."
+        ],
+        "related_words": ["swelling", "irritation", "redness"],
+        "date_added": "2024/09/18"
+    },
+    {
+        "word": "scalp",
+        "pronunciation": "/skælp/",
+        "translation": "头皮",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. The skin covering the head, excluding the face, which contains hair follicles."
+        },
+        "examples": [
+            "She massaged her scalp to relieve tension.",
+            "Dandruff can be a common issue affecting the scalp."
+        ],
+        "related_words": ["head", "hair", "dermis"],
+        "date_added": "2024/09/19"
+    },
+    {
+        "word": "clog",
+        "pronunciation": "/klɔɡ/",
+        "translation": "堵塞",
+        "part_of_speech": ["Verb", "Noun"],
+        "definition": {
+            "Verb": "1. To block or become blocked, preventing movement or flow.",
+            "Noun": "1. A blockage or obstruction."
+        },
+        "examples": [
+            "The drain was clogged with hair and soap scum.",
+            "She used a solution to unclog the sink."
+        ],
+        "related_words": ["block", "obstruct", "stop up"],
+        "date_added": "2024/09/19"
+    },
+    {
+        "word": "greasy",
+        "pronunciation": "/ˈɡriːsi/",
+        "translation": "油腻的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Covered with or resembling grease; oily."
+        },
+        "examples": [
+            "His hands were greasy after working on the car.",
+            "The pizza left a greasy residue on the plate."
+        ],
+        "related_words": ["oily", "slick", "fatty"],
+        "date_added": "2024/09/19"
+    },
+    {
+        "word": "lotion",
+        "pronunciation": "/ˈloʊʃən/",
+        "translation": "乳液",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. A thick liquid used for moisturizing or treating the skin."
+        },
+        "examples": [
+            "She applied lotion to her dry skin after the shower.",
+            "Sunscreen is a type of lotion that protects against UV rays."
+        ],
+        "related_words": ["cream", "ointment", "emulsion"],
+        "date_added": "2024/09/19"
+    },
+    {
+        "word": "gunk",
+        "pronunciation": "/ɡʌŋk/",
+        "translation": "污垢；粘稠物",
+        "part_of_speech": ["Noun"],
+        "definition": {
+            "Noun": "1. A thick, sticky, or dirty substance; mess."
+        },
+        "examples": [
+            "There was a lot of gunk built up in the corners of the room.",
+            "The car's engine was covered in greasy gunk."
+        ],
+        "related_words": ["sludge", "mess", "goop"],
+        "date_added": "2024/09/19"
+    },
+    {
+        "word": "noncomedogenic",
+        "pronunciation": "/ˌnɒnˌkɒmɪdəˈdʒɛnɪk/",
+        "translation": "不致粉刺的",
+        "part_of_speech": ["Adjective"],
+        "definition": {
+            "Adjective": "1. Referring to products that are formulated to not clog pores."
+        },
+        "examples": [
+            "Choose noncomedogenic makeup to avoid acne breakouts.",
+            "Many skincare brands offer noncomedogenic options."
+        ],
+        "related_words": ["acne-free", "oil-free", "safe"],
+        "date_added": "2024/09/19"
+    },
+    {
+        "word": "lather",
+        "pronunciation": "/ˈlæðər/",
+        "translation": "起泡；泡沫",
+        "part_of_speech": ["Verb", "Noun"],
+        "definition": {
+            "Verb": "1. To form a mass of small bubbles or foam by agitating a substance in water.",
+            "Noun": "1. A mass of bubbles produced by soap or detergent."
+        },
+        "examples": [
+            "Lather the shampoo into your hair for best results.",
+            "The soap created a rich lather that smelled wonderful."
+        ],
+        "related_words": ["foam", "bubbles", "froth"],
+        "date_added": "2024/09/19"
+    }
 ]

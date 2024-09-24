@@ -190,3 +190,47 @@
 
 - [notorious](../vocabulary/notorious.md)
 - [rash](../vocabulary/rash.md)
+### 2024/09/16
+
+- [elate](../vocabulary/elate.md)
+- [convoy](../vocabulary/convoy.md)
+- [immense](../vocabulary/immense.md)
+- [divert](../vocabulary/divert.md)
+- [congregate](../vocabulary/congregate.md)
+- [imperative](../vocabulary/imperative.md)
+- [peril](../vocabulary/peril.md)
+- [entrenched](../vocabulary/entrenched.md)
+- [supply glut](../vocabulary/supply glut.md)
+- [hardship](../vocabulary/hardship.md)
+### 2024/09/17
+
+- [stagnation](../vocabulary/stagnation.md)
+- [stifle](../vocabulary/stifle.md)
+- [grinding](../vocabulary/grinding.md)
+- [accommodative](../vocabulary/accommodative.md)
+- [subdued](../vocabulary/subdued.md)
+- [in a sign](../vocabulary/in a sign.md)
+- [plummeting](../vocabulary/plummeting.md)
+- [slashed](../vocabulary/slashed.md)
+- [reminiscent](../vocabulary/reminiscent.md)
+### 2024/09/18
+
+- [brat](../vocabulary/brat.md)
+- [intrigue](../vocabulary/intrigue.md)
+- [armistice](../vocabulary/armistice.md)
+- [replicable](../vocabulary/replicable.md)
+- [interim](../vocabulary/interim.md)
+- [overdraft](../vocabulary/overdraft.md)
+- [deprecate](../vocabulary/deprecate.md)
+- [suffocate](../vocabulary/suffocate.md)
+- [poke](../vocabulary/poke.md)
+- [inflammation](../vocabulary/inflammation.md)
+### 2024/09/19
+
+- [scalp](../vocabulary/scalp.md)
+- [clog](../vocabulary/clog.md)
+- [greasy](../vocabulary/greasy.md)
+- [lotion](../vocabulary/lotion.md)
+- [gunk](../vocabulary/gunk.md)
+- [noncomedogenic](../vocabulary/noncomedogenic.md)
+- [lather](../vocabulary/lather.md)
