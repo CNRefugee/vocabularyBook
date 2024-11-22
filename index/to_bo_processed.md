@@ -8,19 +8,157 @@ composure
 sip 
 unleashed
 daring
-cusp 
-unveiled 
+cusp
+unveiled
 at a rare
 
 10.9
-demolitions 
-Implosion 
-combustion 
+demolitions
+Implosion
+combustion
 Self-Compassion
 
 10.10
 precipice
 teeter
-piecemeal 
-mandate 
-rekindle 
+piecemeal
+mandate
+rekindle
+
+10.11
+genital
+
+10.14
+trajectory 
+showcase
+sentiment
+amass
+oversight
+exacerbate
+unfettered
+paradigm
+Stagflation
+aggregate
+
+10.16
+fulcrum 
+repression
+doghouse 
+penthouse 
+sluggish 
+prop up
+relent
+
+10.17
+waver 
+falter
+
+10.21
+tip the balance to the favor of
+Better off without
+
+10.22
+unintelligible
+composure
+
+10.28
+spectacle
+preceding 
+midwit 
+predominate
+In a way this ignorance is excusable
+
+10.29
+bishop
+
+10.30
+intercourse 
+elusive
+ antidote
+self-esteem
+testimonies
+arenas
+Controversy engulfs the issue
+risque
+sanction 
+pimping
+brittle
+Toss out
+dousing
+
+11.1
+Shanghai has borne the brunt of some of the country’s biggest clampdowns over the past two years, including a monthlong citywide lockdown in 2022 that triggered an outburst of public protests later that year and a wave of detentions.
+residents poured into downtown Shanghai in droves to blow off steam, some in costumes that signaled defiance, including surveillance cameras or white hazmat suits.
+
+revelry
+whack-a-mole
+provocation
+annexe
+stalemate 
+artillery
+incursion 
+seized large swathes 
+contested 
+ bombard
+logistical 
+inflict 
+combatants
+tributes 
+What we do in life echoes in eternity
+the fourth straight quarter
+
+11.5
+fatigue
+Dehydration 
+impair 
+
+11.7
+beige
+mentally fuzzy
+
+11.20
+drawn-out
+crunch
+grapple
+barricade
+purportedly
+plow
+perpetrator 
+vicious 
+detain
+preliminary 
+stem
+entice
+recruit
+ toute
+
+11.21
+scrambling
+solidarity
+clamp down
+disclose
+speculate on their intention
+probe
+jitter
+hybrid warfare
+henceforth 
+Other countries address such disparities by taxing the rich more heavily and boosting the spending power of lower and middle classes through cash transfers, and public health and education
+refuge 
+fragmented
+erratic 
+seamlessly
+rhetoric
+trophy
+
+11.22
+dissipates
+respite 
+Breaking Bad stays grounded in grim realism
+albeit 
+unflinching 
+immerse 
+compelling 
+unsettling
+repercussions
+The robbers frequently escape impossible situations through sheer luck, clever twists, or implausible foresight. For example, the Professor’s plans often anticipate every eventuality, which borders on superhuman.
+catharsis
